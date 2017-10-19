@@ -1,0 +1,23 @@
+{
+  "name": "LOC_MARC",
+  "version": "1.0.0",
+  "description": "LOC MARC Files explore & visualize",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js "
+  },
+  "keywords": [
+    "libraries"
+  ],
+  "author": "Jer Thorp",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "concat-stream": "^1.6.0",
+    "fs": "0.0.1-security",
+    "progress": "^2.0.0",
+    "request": "^2.83.0",
+    "xml2object": "^0.1.2",
+    "zlib": "^1.0.5"
+  }
+}

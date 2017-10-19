@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- example of uPnP Action Response, from UPnP-arch-DeviceArchitecture-v1.1-20081015.pdf on upnp.org -->
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+	<s:Body>
+		<u:actionNameResponse xmlns:u="urn:schemas-upnp-org:service:serviceType:v">
+			<argumentName>out arg value</argumentName>
+			<!-- other out args and their values go here, if any -->
+		</u:actionNameResponse>
+	</s:Body>
+</s:Envelope>

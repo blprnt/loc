@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<example foo="bar">
+	<animals>
+		<dog name="Fluffy"/>
+		<dog name="Max"/>
+		<cat name="Snuggles"/>
+		<cat name="Snowball"/>
+    <lizard name="Spike"/>
+    <tiger>
+      <![CDATA[
+        RrrrrrR! <!8&>&*(%$
+      ]]>
+    </tiger>
+	</animals>
+</example>
