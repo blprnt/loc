@@ -16,6 +16,8 @@ var blessed = require('blessed');
 const marc_location = "/Users/jerthorp/Desktop/LOC_Residency/MARC_Files";
 
 var screening = false;
+var docCount = 0;
+var docCounts = [];
 
 if (screening) {
 
@@ -96,10 +98,17 @@ var nameDict = {};
 var allRecords = [];
  function parseRecord(obj) {
  	record = {};
+ 	//console.log("");
+	//console.log("-------");
 	for (var i = 0; i < obj.datafield.length; i++) {
 		var df = obj.datafield[i];
 		//Get the numeric tag
 		var tag  = df.tag;
+
+		//Get the accession #
+		//if (tag == "005") 
+
+	    //console.log(df);
 		//If we have the tag in our dictionary, write to the JSON object
 		//Based on the code (doesn't work for all cases?)
 		if (marcDict[tag]) {
@@ -113,7 +122,13 @@ var allRecords = [];
 			}
 		}
 	}
+
+	if (record.Year) {
+		record.Year = record.Year.replace(/[c.,\/#!$%\^&\*\[\];:{}=\-_`~()]/g,"");
+		record.Year = record.Year.substring(0,4);
+	}
 	if (record.Title) {
+		docCount++;
 		allRecords.push(record);
 		if (screening) {
 			box.setContent('{center}Processed {red-fg}' + allRecords.length + '{/red-fg} records.{/center}');
@@ -130,9 +145,35 @@ var allRecords = [];
 	    	firstName = record.Name.replace(",", "")
 	    }
 
+	    //Is it a double name?
+	    if (firstName.split(" ").length > 1) {
+	    	firstName = firstName.split(" ")[0];
+	    }
+
 	    //Increment name counter
-	    if (!nameDict[firstName]) nameDict[firstName] = 0;
-		nameDict[firstName] ++;
+	    if (firstName.length > 2) {
+		    if (!nameDict[firstName]) {
+		    	nameDict[firstName] = {
+		    		"name":firstName,
+		    		"total":0,
+		    		"years":[]
+		    	};
+		   	}
+
+
+		   	//Five year intervals starting in 1550
+		   	if (record.Year > 1550 && record.Year < 2018) {
+			   	var y = Math.floor((record.Year - 1550) / 5);
+			   	
+			   	if (!docCounts[y]) docCounts[y] = 0;
+			   	docCounts[y] ++;
+
+				nameDict[firstName].total ++;
+				if (!nameDict[firstName].years[y]) nameDict[firstName].years[y] = 0;
+				nameDict[firstName].years[y] ++;
+				
+			}
+		}
 	}
 	
 }
@@ -140,37 +181,68 @@ var allRecords = [];
 //Name counting
 function reportNameCounts() {
 	// Create items array
+	var outs = [];
 	var items = Object.keys(nameDict).map(function(key) {
 	    return [key, nameDict[key]];
 	});
 
 	// Sort the array based on the second element
 	items.sort(function(first, second) {
-	    return second[1] - first[1];
+	    return second[1].total - first[1].total;
 	});
 
-	// Create a new array with only the first 5 items
-	console.log(items.slice(0, 5));
+	// Create a new array with only the first 4000 items
+	//Calculate new totals based on this subset of 4000
+	var totals = [];
+	for (var i = 0; i < 4000; i++) {
+		outs.push(items[i]);
+		for (var j = 0; j < items[i][1].years.length; j++) {
+			if (!totals[j]) totals[j] = 0;
+			if (items[i][1].years[j]) totals[j] += items[i][1].years[j];
+		}
+	}
+
+
+	
+
+	//Output JSON
+
+
+	var json = JSON.stringify(outs, null, 2);
+	//Write
+	fs.writeFile('names.json', json, 'utf8', function() {
+		console.log("Saved JSON.");
+	});
+
+	var tjson = JSON.stringify(totals, null, 2);
+	//Write
+	fs.writeFile('totals.json', tjson, 'utf8', function() {
+		console.log("Saved totals JSON.");
+	});
 
 }
 
 function onParseFinished() {
 	reportNameCounts();
+	console.log("TOTAL DOCS: " + docCount);
+	console.log(docCounts);
 	nextFile();
 }
 
-var gunzip = zlib.createGunzip();
+
 var counter = 1;
 
 function nextFile() {
 	var n = (counter < 10 ? "0":"") + counter;
 	var url = marc_location + "/Books/BooksAll.2014.part" + n + ".xml.gz";
 	var rstream = fs.createReadStream(url);
+	var gunzip = zlib.createGunzip();
 	makeParser();
+	allRecords = [];
 
 	console.log("LOADING FILE : " + url);
 	counter ++;
-	if (counter < 10) {
+	if (counter < 41) {
 		rstream   // reads from myfile.txt.gz
 		  .pipe(gunzip)  // uncompresses
 		  .pipe(parser.saxStream); //Parses into record objects
