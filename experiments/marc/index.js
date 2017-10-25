@@ -13,7 +13,7 @@ const concat = require('concat-stream');
 const xml2object = require('xml2object');
 var blessed = require('blessed');
 
-const marc_location = "/Users/jerthorp/Desktop/LOC_Residency/MARC_Files";
+const marc_location = process.env.DATA_DIR || "./data";
 
 var screening = false;
 var docCount = 0;
@@ -233,8 +233,8 @@ function onParseFinished() {
 var counter = 1;
 
 function nextFile() {
-	var n = (counter < 10 ? "0":"") + counter;
-	var url = marc_location + "/Books/BooksAll.2014.part" + n + ".xml.gz";
+  var n = (counter < 10 ? "0":"") + counter;
+  var url = marc_location + "/BooksAll.2014.part" + n + ".xml.gz";
 	var rstream = fs.createReadStream(url);
 	var gunzip = zlib.createGunzip();
 	makeParser();
