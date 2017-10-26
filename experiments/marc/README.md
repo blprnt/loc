@@ -4,6 +4,6 @@ To run:
 
 - install node.js
 - in terminal: 
-	- npm install
+  - npm install
   - npm download-data
-	- npm start
+  - npm start
