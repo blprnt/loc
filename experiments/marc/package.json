@@ -4,7 +4,8 @@
   "description": "LOC MARC Files explore & visualize",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js "
+    "start": "node index.js",
+    "download-data": "wget --input-file data/urls.txt --directory-prefix data"
   },
   "keywords": [
     "libraries"
