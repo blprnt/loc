@@ -162,6 +162,7 @@ var allRecords = [];
 
 
 		   	//Five year intervals starting in 1550
+		   
 		   	if (record.Year > 1550 && record.Year < 2018) {
 			   	var y = Math.floor((record.Year - 1550) / 5);
 			   	
@@ -242,7 +243,7 @@ function nextFile() {
 
 	console.log("LOADING FILE : " + url);
 	counter ++;
-	if (counter < 41) {
+	if (counter < 42) {
 		rstream   // reads from myfile.txt.gz
 		  .pipe(gunzip)  // uncompresses
 		  .pipe(parser.saxStream); //Parses into record objects
