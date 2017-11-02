@@ -13,11 +13,14 @@ const concat = require('concat-stream');
 const xml2object = require('xml2object');
 var blessed = require('blessed');
 
-const marc_location = process.env.DATA_DIR || "./data";
+var dataPath = '/Users/jerthorp/Desktop/LOC_Residency/MARC_Files/Books/'
+
+const marc_location = process.env.DATA_DIR || dataPath;
 
 var screening = false;
 var docCount = 0;
 var docCounts = [];
+var callNumCounts = [];
 
 if (screening) {
 
@@ -92,8 +95,11 @@ const marcDict = {};
 marcDict["245"] = {"a" :"Title"};
 marcDict["260"] = {"c" :"Year"};
 marcDict["100"] = {"a" :"Name"};
+marcDict["050"] = {"a" :"CallNumber"};
 
 var nameDict = {};
+var lastNameDict = {};
+
 
 var allRecords = [];
  function parseRecord(obj) {
@@ -123,6 +129,10 @@ var allRecords = [];
 		}
 	}
 
+	if (record.CallNumber) {
+
+	}
+
 	if (record.Year) {
 		record.Year = record.Year.replace(/[c.,\/#!$%\^&\*\[\];:{}=\-_`~()]/g,"");
 		record.Year = record.Year.substring(0,4);
@@ -139,10 +149,14 @@ var allRecords = [];
 	if (record.Name) {	
 		//console.log(record.Name);
 		var firstName;
+		var lastName;
+
 		if (record.Name.split(", ")[1]) {
 			firstName = record.Name.split(", ")[1].replace(",", "");
+			lastName = record.Name.split(", ")[0];
 	    } else {
-	    	firstName = record.Name.replace(",", "")
+	    	firstName = record.Name.replace(",", "");
+	    	lastName = "None";
 	    }
 
 	    //Is it a double name?
@@ -150,13 +164,27 @@ var allRecords = [];
 	    	firstName = firstName.split(" ")[0];
 	    }
 
-	    //Increment name counter
+	    //Increment first name counter
 	    if (firstName.length > 2) {
-		    if (!nameDict[firstName]) {
-		    	nameDict[firstName] = {
-		    		"name":firstName,
+		    incrementDict(nameDict, firstName);
+		}
+
+		//Increment last name counter
+		if (lastName) {
+			incrementDict(lastNameDict, lastName);
+		}
+	}
+	
+}
+
+function incrementDict(dict, val) {
+
+			if (!dict[val]) {
+		    	dict[val] = {
+		    		"name":val,
 		    		"total":0,
-		    		"years":[]
+		    		"years":[],
+		    		"callNums":{}
 		    	};
 		   	}
 
@@ -169,22 +197,31 @@ var allRecords = [];
 			   	if (!docCounts[y]) docCounts[y] = 0;
 			   	docCounts[y] ++;
 
-				nameDict[firstName].total ++;
-				if (!nameDict[firstName].years[y]) nameDict[firstName].years[y] = 0;
-				nameDict[firstName].years[y] ++;
+				dict[val].total ++;
+				if (!dict[val].years[y]) dict[val].years[y] = 0;
+				dict[val].years[y] ++;
+
+				//Second level call number
+				if (record.CallNumber) {
+					var cn = record.CallNumber.substring(0,2);
+					if (!callNumCounts[cn]) callNumCounts[cn] = 0;
+				   	callNumCounts[cn] ++;
+
+				   	if (!dict[val].callNums[cn]) dict[val].callNums[cn] = 0;
+					dict[val].callNums[cn] ++;
+				}
 				
 			}
-		}
-	}
-	
-}
+
+			
+} 
 
 //Name counting
-function reportNameCounts() {
+function reportNameCounts(dict, name) {
 	// Create items array
 	var outs = [];
-	var items = Object.keys(nameDict).map(function(key) {
-	    return [key, nameDict[key]];
+	var items = Object.keys(dict).map(function(key) {
+	    return [key, dict[key]];
 	});
 
 	// Sort the array based on the second element
@@ -195,36 +232,43 @@ function reportNameCounts() {
 	// Create a new array with only the first 4000 items
 	//Calculate new totals based on this subset of 4000
 	var totals = [];
+	var callTotals = {};
 	for (var i = 0; i < 4000; i++) {
 		outs.push(items[i]);
 		for (var j = 0; j < items[i][1].years.length; j++) {
 			if (!totals[j]) totals[j] = 0;
 			if (items[i][1].years[j]) totals[j] += items[i][1].years[j];
 		}
-	}
-
-
-	
+		for (var n in callNumCounts) {
+			if (!callTotals[n]) callTotals[n] = 0;
+			if (items[i][1].callNums[n]) callTotals[n] += items[i][1].callNums[n];
+		}
+	}	
 
 	//Output JSON
-
-
 	var json = JSON.stringify(outs, null, 2);
 	//Write
-	fs.writeFile('names.json', json, 'utf8', function() {
+	fs.writeFile(name + '.json', json, 'utf8', function() {
 		console.log("Saved JSON.");
 	});
 
 	var tjson = JSON.stringify(totals, null, 2);
 	//Write
-	fs.writeFile('totals.json', tjson, 'utf8', function() {
+	fs.writeFile(name + 'totals.json', tjson, 'utf8', function() {
 		console.log("Saved totals JSON.");
+	});
+
+	var cnjson = JSON.stringify(callTotals, null, 2);
+	//Write
+	fs.writeFile(name + 'calltotals.json', cnjson, 'utf8', function() {
+		console.log("Saved call totals JSON.");
 	});
 
 }
 
 function onParseFinished() {
-	reportNameCounts();
+	reportNameCounts(nameDict, "names");
+	reportNameCounts(lastNameDict, "lastNames");
 	console.log("TOTAL DOCS: " + docCount);
 	console.log(docCounts);
 	nextFile();
