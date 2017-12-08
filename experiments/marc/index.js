@@ -99,6 +99,8 @@ marcDict["050"] = {"a" :"CallNumber"};
 
 var nameDict = {};
 var lastNameDict = {};
+var callDict = {};
+var callYearTotals = [];
 
 
 var allRecords = [];
@@ -130,7 +132,15 @@ var allRecords = [];
 	}
 
 	if (record.CallNumber) {
-
+		var cn = record.CallNumber.substring(0,2);
+		if (cn.indexOf("}") == -1) {
+			incrementDict(callDict, cn, 1);
+			if (record.Year > 1550 && record.Year < 2018) {
+				   	var y = Math.floor((record.Year - 1550) / 1);
+				   	if (!callYearTotals[y]) callYearTotals[y] = 0;
+				   	callYearTotals[y] ++;
+			}
+		}
 	}
 
 	if (record.Year) {
@@ -166,18 +176,18 @@ var allRecords = [];
 
 	    //Increment first name counter
 	    if (firstName.length > 2) {
-		    incrementDict(nameDict, firstName);
+		    incrementDict(nameDict, firstName, 5);
 		}
 
 		//Increment last name counter
 		if (lastName) {
-			incrementDict(lastNameDict, lastName);
+			incrementDict(lastNameDict, lastName,);
 		}
 	}
 	
 }
 
-function incrementDict(dict, val) {
+function incrementDict(dict, val, yi) {
 
 			if (!dict[val]) {
 		    	dict[val] = {
@@ -192,7 +202,7 @@ function incrementDict(dict, val) {
 		   	//Five year intervals starting in 1550
 		   
 		   	if (record.Year > 1550 && record.Year < 2018) {
-			   	var y = Math.floor((record.Year - 1550) / 5);
+			   	var y = Math.floor((record.Year - 1550) / yi);
 			   	
 			   	if (!docCounts[y]) docCounts[y] = 0;
 			   	docCounts[y] ++;
@@ -258,10 +268,24 @@ function reportNameCounts(dict, name) {
 		console.log("Saved totals JSON.");
 	});
 
+	/*
 	var cnjson = JSON.stringify(callTotals, null, 2);
 	//Write
 	fs.writeFile(name + 'calltotals.json', cnjson, 'utf8', function() {
 		console.log("Saved call totals JSON.");
+	});
+	*/
+
+	var cjson = JSON.stringify(callDict, null, 2);
+	//Write
+	fs.writeFile('calls.json', cjson, 'utf8', function() {
+		console.log("Saved call # JSON.");
+	});
+
+	var ctjson = JSON.stringify(callYearTotals, null, 2);
+	//Write
+	fs.writeFile('callYearTotals.json', ctjson, 'utf8', function() {
+		console.log("Saved call # JSON.");
 	});
 
 }
