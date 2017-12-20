@@ -59,7 +59,7 @@ var titleMax = 100000;
 var titleFileTotal = 0;
 
 function addTitle(record) {
-	titleList.push({"title":record.Title, "call":record.CallNumber});
+	titleList.push({"title":record.Title, "call":record.CallNumber, "year":record.Year});
 	if (titleList.length == titleMax) {
 		writeTotals();
 	}
@@ -67,7 +67,7 @@ function addTitle(record) {
 
 function writeTotals() {
 
-	var json = JSON.stringify(titleList, null, 2);
+	var json = JSON.stringify(titleList, null, 1);
 	//Write
 	fs.writeFile("data/titles/titles" + titleFileTotal + '.json', json, 'utf8', function() {
 		console.log("Saved JSON.");
