@@ -1,0 +1,4146 @@
+[
+  {
+    "name": "Martens, Wilfried",
+    "occupations": [
+      "Prime minister of Belgium",
+      "Prime minister of Belgium",
+      "Statesman"
+    ],
+    "totalDist": 7145.435078794291,
+    "meanDist": 3572.7175393971456
+  },
+  {
+    "name": "Drury, Newton Bishop,",
+    "occupations": [
+      "advertiser",
+      "director",
+      "soldier"
+    ],
+    "totalDist": 5663.343146209007,
+    "meanDist": 2831.6715731045033
+  },
+  {
+    "name": "Murray, Merrill G.",
+    "occupations": [
+      "Politician",
+      "Department of Labor",
+      "Social Security Board"
+    ],
+    "totalDist": 4762.539053431208,
+    "meanDist": 2381.269526715604
+  },
+  {
+    "name": "Lachmann, Frank M.",
+    "occupations": [
+      "Teacher",
+      "Supervisor",
+      "Clinical assistant professor"
+    ],
+    "totalDist": 4647.162533896857,
+    "meanDist": 2323.5812669484285
+  },
+  {
+    "name": "Danzi, Franz,",
+    "occupations": [
+      "Composers",
+      "Cellists",
+      "Kapellmeister"
+    ],
+    "totalDist": 4037.546661648333,
+    "meanDist": 2018.7733308241666
+  },
+  {
+    "name": "Weigl, Joseph,",
+    "occupations": [
+      "Kapellmeister",
+      "Composer",
+      "Conductor"
+    ],
+    "totalDist": 3914.82544051729,
+    "meanDist": 1957.412720258645
+  },
+  {
+    "name": "Renfrow, Kenon D.,",
+    "occupations": [
+      "Pianist",
+      "Professor",
+      "Composer",
+      "Educational researcher"
+    ],
+    "totalDist": 5838.353642515633,
+    "meanDist": 1946.1178808385441
+  },
+  {
+    "name": "Harryhausen, Ray",
+    "occupations": [
+      "Film producer",
+      "Special effects creator",
+      "Stop motion model animator"
+    ],
+    "totalDist": 3602.2083995522867,
+    "meanDist": 1801.1041997761433
+  },
+  {
+    "name": "Nuitter, Charles,",
+    "occupations": [
+      "Opera librettist",
+      "Ballet librettist",
+      "Author",
+      "Librarian"
+    ],
+    "totalDist": 5354.7086988214505,
+    "meanDist": 1784.9028996071502
+  },
+  {
+    "name": "Steinert, Johannes-Dieter,",
+    "occupations": [
+      "College teachers",
+      "Historians",
+      "Professor of history"
+    ],
+    "totalDist": 3238.8636574172824,
+    "meanDist": 1619.4318287086412
+  },
+  {
+    "name": "Burr, Aaron,",
+    "occupations": [
+      "Lawyer",
+      "Attorney General of New York",
+      "U.S. Senator from New York",
+      "Vice President of the United States"
+    ],
+    "totalDist": 3604.412353912596,
+    "meanDist": 1201.470784637532
+  },
+  {
+    "name": "Peterson, H. Burke",
+    "occupations": [
+      "civil engineer",
+      "Seebee",
+      "General Authority of the Church of Jesus Christ of Latter-day Saints",
+      "teacher",
+      "business owner"
+    ],
+    "totalDist": 4387.809496877973,
+    "meanDist": 1096.9523742194933
+  },
+  {
+    "name": "Fetherolf, David",
+    "occupations": [
+      "Composers",
+      "Engravers",
+      "Music editor"
+    ],
+    "totalDist": 2165.736855829461,
+    "meanDist": 1082.8684279147305
+  },
+  {
+    "name": "Mauroy, Pierre,",
+    "occupations": [
+      "Mayor of Lille",
+      "Prime minister of France",
+      "Politician"
+    ],
+    "totalDist": 2102.849938616098,
+    "meanDist": 1051.424969308049
+  },
+  {
+    "name": "Gettel, Michael",
+    "occupations": [
+      "Pianist",
+      "Painter",
+      "Music teacher"
+    ],
+    "totalDist": 2075.2296573679255,
+    "meanDist": 1037.6148286839627
+  },
+  {
+    "name": "Hofmann, Leopold,",
+    "occupations": [
+      "Composers",
+      "Violinists",
+      "Organists",
+      "Choral conductors",
+      "Kapellmeister"
+    ],
+    "totalDist": 4059.6672878048735,
+    "meanDist": 1014.9168219512184
+  },
+  {
+    "name": "Hamblin, Michael",
+    "occupations": [
+      "educator",
+      "author",
+      "marketing manager",
+      "coreographer"
+    ],
+    "totalDist": 2867.0350277447806,
+    "meanDist": 955.6783425815935
+  },
+  {
+    "name": "Berger, Melvin",
+    "occupations": [
+      "Writer",
+      "Violist",
+      "Professor"
+    ],
+    "totalDist": 1771.9657886409336,
+    "meanDist": 885.9828943204668
+  },
+  {
+    "name": "Pai, Anant",
+    "occupations": [
+      "author",
+      "comic book creator",
+      "educator"
+    ],
+    "totalDist": 1710.2773324135824,
+    "meanDist": 855.1386662067912
+  },
+  {
+    "name": "Holland, Jan Dawid,",
+    "occupations": [
+      "Composer",
+      "Professor",
+      "Musical director"
+    ],
+    "totalDist": 1446.0536386106835,
+    "meanDist": 723.0268193053417
+  },
+  {
+    "name": "Miller, Mary C.",
+    "occupations": [
+      "College teachers",
+      "Interior decorators",
+      "Pianists"
+    ],
+    "totalDist": 1445.7148051827298,
+    "meanDist": 722.8574025913649
+  },
+  {
+    "name": "Laufman, Dudley",
+    "occupations": [
+      "poet",
+      "fiddler",
+      "storyteller"
+    ],
+    "totalDist": 1411.6838302381661,
+    "meanDist": 705.8419151190831
+  },
+  {
+    "name": "Durkó, Zsolt",
+    "occupations": [
+      "Composers",
+      "College teachers",
+      "Music teachers",
+      "Radio editor"
+    ],
+    "totalDist": 2088.6650033389246,
+    "meanDist": 696.2216677796415
+  },
+  {
+    "name": "Ėnėbish, Zh.",
+    "occupations": [
+      "Musicians",
+      "Conductors (Music)",
+      "Art critics"
+    ],
+    "totalDist": 1381.1006097078716,
+    "meanDist": 690.5503048539358
+  },
+  {
+    "name": "Hillier, Paul",
+    "occupations": [
+      "Baritone",
+      "Professor",
+      "Conductor",
+      "Teacher"
+    ],
+    "totalDist": 2050.771452566142,
+    "meanDist": 683.5904841887141
+  },
+  {
+    "name": "Pulitzer, Joseph,",
+    "occupations": [
+      "newspaper publisher",
+      "reporter",
+      "soldier"
+    ],
+    "totalDist": 1364.325272640995,
+    "meanDist": 682.1626363204975
+  },
+  {
+    "name": "Dalton, David",
+    "occupations": [
+      "College teachers",
+      "Violists",
+      "Authors"
+    ],
+    "totalDist": 1317.3459640031497,
+    "meanDist": 658.6729820015748
+  },
+  {
+    "name": "Beck, Martha Nibley,",
+    "occupations": [
+      "author",
+      "life coach",
+      "professor"
+    ],
+    "totalDist": 1306.216222456365,
+    "meanDist": 653.1081112281825
+  },
+  {
+    "name": "Cohen, Leonard,",
+    "occupations": [
+      "Composers",
+      "Poets",
+      "Singers"
+    ],
+    "totalDist": 1296.7770346971133,
+    "meanDist": 648.3885173485567
+  },
+  {
+    "name": "Devérité, Louis-Alexandre,",
+    "occupations": [
+      "Printers",
+      "Authors and publishers",
+      "Booksellers and bookselling",
+      "Lawyers"
+    ],
+    "totalDist": 1918.8443931978904,
+    "meanDist": 639.6147977326301
+  },
+  {
+    "name": "Hughes, Charles W.,",
+    "occupations": [
+      "Musicologist",
+      "Historian",
+      "Organist"
+    ],
+    "totalDist": 1254.5521615500227,
+    "meanDist": 627.2760807750113
+  },
+  {
+    "name": "Meisel, Will",
+    "occupations": [
+      "Dancers",
+      "Composers",
+      "Publishers and publishing"
+    ],
+    "totalDist": 1232.4223117236218,
+    "meanDist": 616.2111558618109
+  },
+  {
+    "name": "Viola, Bill,",
+    "occupations": [
+      "Musicians",
+      "Composers",
+      "Video artist"
+    ],
+    "totalDist": 1203.114610640417,
+    "meanDist": 601.5573053202085
+  },
+  {
+    "name": "Engelke, Ulrike",
+    "occupations": [
+      "Flutist",
+      "Lecturer",
+      "Music school administrator"
+    ],
+    "totalDist": 1198.2292687440201,
+    "meanDist": 599.1146343720101
+  },
+  {
+    "name": "Yorgason, Brenton G.",
+    "occupations": [
+      "author",
+      "therapist",
+      "teacher"
+    ],
+    "totalDist": 1192.8937450676299,
+    "meanDist": 596.4468725338149
+  },
+  {
+    "name": "Casey, Juanita",
+    "occupations": [
+      "Author",
+      "Artist",
+      "Horse breeder"
+    ],
+    "totalDist": 1191.0801354436146,
+    "meanDist": 595.5400677218073
+  },
+  {
+    "name": "Armitage, Merle,",
+    "occupations": [
+      "Authors",
+      "Set designers",
+      "Impresarios",
+      "Book designers"
+    ],
+    "totalDist": 1785.0117752109063,
+    "meanDist": 595.0039250703021
+  },
+  {
+    "name": "Z︠H︡erbin, M.",
+    "occupations": [
+      "Engineer",
+      "Architect",
+      "Composer"
+    ],
+    "totalDist": 1189.0806166715493,
+    "meanDist": 594.5403083357746
+  },
+  {
+    "name": "Powell, Teddy",
+    "occupations": [
+      "Composer",
+      "Author",
+      "Bandleader"
+    ],
+    "totalDist": 1185.7761092237156,
+    "meanDist": 592.8880546118578
+  },
+  {
+    "name": "Hennenberg, Fritz",
+    "occupations": [
+      "Musicologists",
+      "Dramatists",
+      "Pianists"
+    ],
+    "totalDist": 1182.8063320541069,
+    "meanDist": 591.4031660270534
+  },
+  {
+    "name": "Klengel, Julius",
+    "occupations": [
+      "Poets",
+      "Composers",
+      "Librettists"
+    ],
+    "totalDist": 1180.9806441318267,
+    "meanDist": 590.4903220659133
+  },
+  {
+    "name": "Beeler, Walter,",
+    "occupations": [
+      "educator",
+      "arranger",
+      "editor"
+    ],
+    "totalDist": 1177.6036036525466,
+    "meanDist": 588.8018018262733
+  },
+  {
+    "name": "Zigante, Frédéric",
+    "occupations": [
+      "Guitarists",
+      "Editors",
+      "Guitar teachers"
+    ],
+    "totalDist": 1172.046637274735,
+    "meanDist": 586.0233186373675
+  },
+  {
+    "name": "Bacon, Paul,",
+    "occupations": [
+      "Book designers",
+      "Illustrators",
+      "Jazz musicians"
+    ],
+    "totalDist": 1170.185624909142,
+    "meanDist": 585.092812454571
+  },
+  {
+    "name": "Korykhalova, Natalii︠a︡ Platonovna",
+    "occupations": [
+      "Professor",
+      "Pianist",
+      "Music critic"
+    ],
+    "totalDist": 1165.880122092765,
+    "meanDist": 582.9400610463825
+  },
+  {
+    "name": "Strange, Richard E.",
+    "occupations": [
+      "conductor",
+      "professor",
+      "director of bands"
+    ],
+    "totalDist": 1141.02375269552,
+    "meanDist": 570.51187634776
+  },
+  {
+    "name": "Wolkenstein, Oswald von,",
+    "occupations": [
+      "Poets",
+      "Composers",
+      "Diplomats"
+    ],
+    "totalDist": 1136.9573650971151,
+    "meanDist": 568.4786825485576
+  },
+  {
+    "name": "Hickam, Homer H.,",
+    "occupations": [
+      "Engineer",
+      "Trainer",
+      "Scuba diver",
+      "Author"
+    ],
+    "totalDist": 1704.5985185032987,
+    "meanDist": 568.1995061677662
+  },
+  {
+    "name": "Koprowski, Hilary",
+    "occupations": [
+      "Virologist",
+      "Composer",
+      "Author"
+    ],
+    "totalDist": 1133.717146935623,
+    "meanDist": 566.8585734678115
+  },
+  {
+    "name": "Platt, Richard,",
+    "occupations": [
+      "Painters",
+      "Printmakers",
+      "Musicologists"
+    ],
+    "totalDist": 1129.975845644139,
+    "meanDist": 564.9879228220695
+  },
+  {
+    "name": "Goodwin, Archie",
+    "occupations": [
+      "Artists",
+      "Editors",
+      "Penciller"
+    ],
+    "totalDist": 1126.732293558375,
+    "meanDist": 563.3661467791875
+  },
+  {
+    "name": "Chan, Meow Wah",
+    "occupations": [
+      "Authors, Chinese",
+      "Translators",
+      "Authors, Singaporean"
+    ],
+    "totalDist": 1125.3530088175548,
+    "meanDist": 562.6765044087774
+  },
+  {
+    "name": "Boito, Arrigo,",
+    "occupations": [
+      "Librettists",
+      "Composers",
+      "Poets",
+      "Music critics"
+    ],
+    "totalDist": 1685.5862352164897,
+    "meanDist": 561.8620784054966
+  },
+  {
+    "name": "Wu, Mei,",
+    "occupations": [
+      "Professor",
+      "Musicologist",
+      "Dramatist",
+      "Composer",
+      "Author"
+    ],
+    "totalDist": 2242.0776478391927,
+    "meanDist": 560.5194119597982
+  },
+  {
+    "name": "Vanzolini, P. E.",
+    "occupations": [
+      "Herpetologist",
+      "Composer",
+      "Poet",
+      "Zoologist"
+    ],
+    "totalDist": 1681.069799011361,
+    "meanDist": 560.3565996704536
+  },
+  {
+    "name": "Shooter, Jim",
+    "occupations": [
+      "Authors",
+      "Editors",
+      "Businessmen",
+      "Penciller"
+    ],
+    "totalDist": 1679.685142625308,
+    "meanDist": 559.8950475417693
+  },
+  {
+    "name": "Bonney, Orrin H.",
+    "occupations": [
+      "Author",
+      "Alpinist",
+      "Attorney"
+    ],
+    "totalDist": 1117.9844026534922,
+    "meanDist": 558.9922013267461
+  },
+  {
+    "name": "Walker, Don,",
+    "occupations": [
+      "Composer",
+      "Author",
+      "Arranger"
+    ],
+    "totalDist": 1117.6697762687859,
+    "meanDist": 558.8348881343929
+  },
+  {
+    "name": "Wagner, Joseph,",
+    "occupations": [
+      "Composers",
+      "Authors",
+      "Conductors (Music)"
+    ],
+    "totalDist": 1114.5873927452099,
+    "meanDist": 557.2936963726049
+  },
+  {
+    "name": "Hawkins, Malcolm",
+    "occupations": [
+      "Composers",
+      "Authors",
+      "Choral conductors"
+    ],
+    "totalDist": 1104.251547024845,
+    "meanDist": 552.1257735124225
+  },
+  {
+    "name": "Novikov, Nikolaĭ Ivanovich,",
+    "occupations": [
+      "Journalists",
+      "Philanthropists",
+      "Publishers and publishing"
+    ],
+    "totalDist": 1101.5571041326496,
+    "meanDist": 550.7785520663248
+  },
+  {
+    "name": "Rohrer, Alyce S.",
+    "occupations": [
+      "Author",
+      "Pilot",
+      "Educator"
+    ],
+    "totalDist": 1088.5711265376137,
+    "meanDist": 544.2855632688069
+  },
+  {
+    "name": "Schwartz, Elliott,",
+    "occupations": [
+      "Composer",
+      "Author",
+      "Pianist"
+    ],
+    "totalDist": 1085.0353291854449,
+    "meanDist": 542.5176645927224
+  },
+  {
+    "name": "Forster, John,",
+    "occupations": [
+      "Composers",
+      "Arrangers (Musicians)",
+      "Humorists",
+      "Sound recording executives and producers"
+    ],
+    "totalDist": 1620.7226162516054,
+    "meanDist": 540.2408720838685
+  },
+  {
+    "name": "Hansen, Mark Victor",
+    "occupations": [
+      "Author",
+      "Motivational speaker",
+      "Trainer"
+    ],
+    "totalDist": 1066.4159650055694,
+    "meanDist": 533.2079825027847
+  },
+  {
+    "name": "Frey, James E.,",
+    "occupations": [
+      "Teacher",
+      "Family historian",
+      "Author"
+    ],
+    "totalDist": 1059.287835062896,
+    "meanDist": 529.643917531448
+  },
+  {
+    "name": "Gowan, Al",
+    "occupations": [
+      "Author",
+      "Designer",
+      "Educator"
+    ],
+    "totalDist": 1056.1181128285334,
+    "meanDist": 528.0590564142667
+  },
+  {
+    "name": "Tanner, John S.",
+    "occupations": [
+      "Educator",
+      "University administrator",
+      "Author"
+    ],
+    "totalDist": 1053.1636699601079,
+    "meanDist": 526.5818349800539
+  },
+  {
+    "name": "Hentschel, Martin",
+    "occupations": [
+      "Art museum directors",
+      "Authors",
+      "Art teachers"
+    ],
+    "totalDist": 1047.5735277952322,
+    "meanDist": 523.7867638976161
+  },
+  {
+    "name": "Ekimovskiĭ, V.",
+    "occupations": [
+      "Composers",
+      "Editors",
+      "Musicologists"
+    ],
+    "totalDist": 1041.6806894081737,
+    "meanDist": 520.8403447040869
+  },
+  {
+    "name": "Genée, Richard,",
+    "occupations": [
+      "Conductors (Music)",
+      "Librettists",
+      "Composers"
+    ],
+    "totalDist": 1036.7519762522911,
+    "meanDist": 518.3759881261456
+  },
+  {
+    "name": "Rietveld, Gerrit Thomas,",
+    "occupations": [
+      "Architect",
+      "Teacher",
+      "Furniture designer"
+    ],
+    "totalDist": 1035.688566342908,
+    "meanDist": 517.844283171454
+  },
+  {
+    "name": "Byrd, Robert",
+    "occupations": [
+      "author",
+      "illustrator",
+      "educator"
+    ],
+    "totalDist": 1035.1341841421697,
+    "meanDist": 517.5670920710849
+  },
+  {
+    "name": "McHugh, Jimmy,",
+    "occupations": [
+      "Songwriter",
+      "Pianist",
+      "Publisher"
+    ],
+    "totalDist": 1034.5821234765501,
+    "meanDist": 517.2910617382751
+  },
+  {
+    "name": "Tawa, Nicholas E.",
+    "occupations": [
+      "Composers",
+      "Authors",
+      "Music teachers"
+    ],
+    "totalDist": 1031.1502495560285,
+    "meanDist": 515.5751247780142
+  },
+  {
+    "name": "Helfer, Ralph",
+    "occupations": [
+      "Animal trainer",
+      "Author",
+      "Safari guide"
+    ],
+    "totalDist": 1026.9023743310324,
+    "meanDist": 513.4511871655162
+  },
+  {
+    "name": "Farmer, Henry George,",
+    "occupations": [
+      "Authors",
+      "Musicologists",
+      "Asianists",
+      "Conductors (Music)"
+    ],
+    "totalDist": 1537.1370096378555,
+    "meanDist": 512.3790032126185
+  },
+  {
+    "name": "Peart, Neil",
+    "occupations": [
+      "Musician",
+      "Drummer",
+      "Author"
+    ],
+    "totalDist": 1022.0495180355449,
+    "meanDist": 511.02475901777245
+  },
+  {
+    "name": "Mohr, Joseph,",
+    "occupations": [
+      "Priests",
+      "Poets",
+      "Composers"
+    ],
+    "totalDist": 1021.2885285211355,
+    "meanDist": 510.64426426056775
+  },
+  {
+    "name": "Delgado, Ricardo,",
+    "occupations": [
+      "film artist",
+      "comic book artist",
+      "author"
+    ],
+    "totalDist": 1020.6802059568317,
+    "meanDist": 510.34010297841587
+  },
+  {
+    "name": "Mason, Lowell,",
+    "occupations": [
+      "Educator",
+      "Composer",
+      "Anthologist",
+      "Conductor"
+    ],
+    "totalDist": 1528.5628035578861,
+    "meanDist": 509.5209345192954
+  },
+  {
+    "name": "Helbich, Wolfgang,",
+    "occupations": [
+      "Conductor",
+      "College teacher",
+      "Church musician"
+    ],
+    "totalDist": 1018.8367341806496,
+    "meanDist": 509.4183670903248
+  },
+  {
+    "name": "Baumgardner, Jennifer,",
+    "occupations": [
+      "Authors and publishers",
+      "Independent filmmakers",
+      "Lecturers"
+    ],
+    "totalDist": 1017.5967835823469,
+    "meanDist": 508.79839179117346
+  },
+  {
+    "name": "Allen, Daevid",
+    "occupations": [
+      "Poets",
+      "Guitarists",
+      "Singers",
+      "Composers",
+      "Performance artists",
+      "Rock musicians"
+    ],
+    "totalDist": 2539.563633462181,
+    "meanDist": 507.9127266924362
+  },
+  {
+    "name": "Morris, Lewis,",
+    "occupations": [
+      "poet",
+      "lyricist",
+      "educationist"
+    ],
+    "totalDist": 1015.752529537914,
+    "meanDist": 507.876264768957
+  },
+  {
+    "name": "Carpenter, Gary,",
+    "occupations": [
+      "Composer",
+      "Arranger",
+      "Professor"
+    ],
+    "totalDist": 1015.0330268781166,
+    "meanDist": 507.5165134390583
+  },
+  {
+    "name": "Burgess, Anthony,",
+    "occupations": [
+      "Novelist",
+      "Linguist",
+      "Composer",
+      "Critic"
+    ],
+    "totalDist": 1522.4013394611752,
+    "meanDist": 507.46711315372505
+  },
+  {
+    "name": "Lersy, Roger,",
+    "occupations": [
+      "Painter",
+      "Sculptor",
+      "Composer"
+    ],
+    "totalDist": 1011.7378220700281,
+    "meanDist": 505.86891103501404
+  },
+  {
+    "name": "Motyl, Alexander J.",
+    "occupations": [
+      "Authors",
+      "Painters",
+      "College teachers"
+    ],
+    "totalDist": 1007.7071843515737,
+    "meanDist": 503.85359217578684
+  },
+  {
+    "name": "Madorskiĭ, L. R.",
+    "occupations": [
+      "Musician",
+      "Music teacher",
+      "Journalist"
+    ],
+    "totalDist": 1006.6076486376369,
+    "meanDist": 503.30382431881844
+  },
+  {
+    "name": "Petrová, Elena,",
+    "occupations": [
+      "Pianist",
+      "Lecturer",
+      "Translator",
+      "Composer"
+    ],
+    "totalDist": 1509.3089403409977,
+    "meanDist": 503.10298011366586
+  },
+  {
+    "name": "Lacy, Suzanne",
+    "occupations": [
+      "Performance artist",
+      "Feminist",
+      "Conceptual artist",
+      "Arts administrator"
+    ],
+    "totalDist": 1493.1074558443875,
+    "meanDist": 497.7024852814625
+  },
+  {
+    "name": "Charters, Samuel,",
+    "occupations": [
+      "Authors",
+      "Ethnomusicologists",
+      "Poets",
+      "Sound recording executives and producers"
+    ],
+    "totalDist": 1488.701724934143,
+    "meanDist": 496.23390831138096
+  },
+  {
+    "name": "Pettinger, Peter,",
+    "occupations": [
+      "Pianists",
+      "Biographers",
+      "Music teachers",
+      "Composers"
+    ],
+    "totalDist": 1461.9731662183194,
+    "meanDist": 487.3243887394398
+  },
+  {
+    "name": "Collin, Paul,",
+    "occupations": [
+      "Lawyer",
+      "Poet",
+      "Music critic",
+      "Translator"
+    ],
+    "totalDist": 1448.2270230974866,
+    "meanDist": 482.7423410324955
+  },
+  {
+    "name": "Dyson, George,",
+    "occupations": [
+      "Composers",
+      "Authors",
+      "Music teachers",
+      "Organists",
+      "Educationist"
+    ],
+    "totalDist": 1911.303237094479,
+    "meanDist": 477.82580927361977
+  },
+  {
+    "name": "Block, Allan,",
+    "occupations": [
+      "Folk musician",
+      "Violinist",
+      "Poet",
+      "Sandal maker"
+    ],
+    "totalDist": 1430.9834449878906,
+    "meanDist": 476.9944816626302
+  },
+  {
+    "name": "Friday, Gavin",
+    "occupations": [
+      "Singers",
+      "Composers",
+      "Actors",
+      "Painters",
+      "Songwriter"
+    ],
+    "totalDist": 1877.834084940723,
+    "meanDist": 469.45852123518074
+  },
+  {
+    "name": "Galustean, Khachʻer M.",
+    "occupations": [
+      "Educator",
+      "Professor",
+      "School principal",
+      "Dean"
+    ],
+    "totalDist": 1394.8778812673838,
+    "meanDist": 464.9592937557946
+  },
+  {
+    "name": "Williams, David Russell",
+    "occupations": [
+      "University of Memphis",
+      "College teachers",
+      "Music teachers",
+      "Authors",
+      "Composers"
+    ],
+    "totalDist": 1850.9209569649104,
+    "meanDist": 462.7302392412276
+  },
+  {
+    "name": "Gibbs, Randy J.",
+    "occupations": [
+      "author",
+      "trainer",
+      "life coach",
+      "financial consultant",
+      "family therapist"
+    ],
+    "totalDist": 1838.5343734363237,
+    "meanDist": 459.6335933590809
+  },
+  {
+    "name": "Badura-Skoda, Paul",
+    "occupations": [
+      "Pianists",
+      "Editors",
+      "Music teachers",
+      "Conductors (Music)"
+    ],
+    "totalDist": 1373.489964333615,
+    "meanDist": 457.829988111205
+  },
+  {
+    "name": "Smith, Joseph A.",
+    "occupations": [
+      "artist",
+      "author",
+      "illustrator",
+      "teacher"
+    ],
+    "totalDist": 1366.2089472579287,
+    "meanDist": 455.4029824193096
+  },
+  {
+    "name": "Stewart, R. B.,",
+    "occupations": [
+      "Clothing designer",
+      "Artist",
+      "Banjo player",
+      "Educator"
+    ],
+    "totalDist": 1361.7348431866164,
+    "meanDist": 453.91161439553883
+  },
+  {
+    "name": "Harnick, Sheldon",
+    "occupations": [
+      "lyricist",
+      "writer",
+      "composer",
+      "performer"
+    ],
+    "totalDist": 1359.5957482354804,
+    "meanDist": 453.19858274516014
+  },
+  {
+    "name": "Bowles, Paul,",
+    "occupations": [
+      "Composers",
+      "Authors",
+      "Music critics",
+      "Translators",
+      "Ethnomusicologists"
+    ],
+    "totalDist": 1800.6441599863942,
+    "meanDist": 450.16103999659856
+  },
+  {
+    "name": "Rian, Jeffrey",
+    "occupations": [
+      "Authors",
+      "Art critics",
+      "Musicians",
+      "Editors"
+    ],
+    "totalDist": 1348.5732675074885,
+    "meanDist": 449.5244225024962
+  },
+  {
+    "name": "Roosevelt, Theodore,",
+    "occupations": [
+      "Politician",
+      "Explorer",
+      "Soldier",
+      "Naturalist",
+      "Author"
+    ],
+    "totalDist": 1795.9863409025386,
+    "meanDist": 448.99658522563465
+  },
+  {
+    "name": "Vaughan Williams, Ralph,",
+    "occupations": [
+      "composer",
+      "teacher",
+      "writer",
+      "conductor"
+    ],
+    "totalDist": 1340.5050902793723,
+    "meanDist": 446.8350300931241
+  },
+  {
+    "name": "Cummings, Amos J.",
+    "occupations": [
+      "congressman",
+      "journalist",
+      "soldier",
+      "editor"
+    ],
+    "totalDist": 1338.2542239013146,
+    "meanDist": 446.0847413004382
+  },
+  {
+    "name": "Gruen, John",
+    "occupations": [
+      "Portrait photographers",
+      "Art critics",
+      "Music critics",
+      "Composers",
+      "Authors"
+    ],
+    "totalDist": 1773.4858173610364,
+    "meanDist": 443.3714543402591
+  },
+  {
+    "name": "Smith, Bill,",
+    "occupations": [
+      "Musicians",
+      "Graphic artists",
+      "Photographers",
+      "Authors",
+      "Sound recording executives and producers",
+      "Motion picture producers and directors"
+    ],
+    "totalDist": 2205.2697648666194,
+    "meanDist": 441.0539529733239
+  },
+  {
+    "name": "Alpert, Herb",
+    "occupations": [
+      "Trumpet players",
+      "Composers",
+      "Sound recording executives and producers",
+      "Painters",
+      "Sculptors",
+      "Arrangers (Musicians)",
+      "Singers"
+    ],
+    "totalDist": 2644.114356976812,
+    "meanDist": 440.685726162802
+  },
+  {
+    "name": "Hickman, Frances Miller",
+    "occupations": [
+      "Zoologist",
+      "College teacher",
+      "Illustrator",
+      "Author"
+    ],
+    "totalDist": 1319.096993526073,
+    "meanDist": 439.6989978420243
+  },
+  {
+    "name": "Kidder, Daniel P.",
+    "occupations": [
+      "Author",
+      "Editor",
+      "Methodist minister",
+      "Missionary",
+      "Professor"
+    ],
+    "totalDist": 1749.0994462518775,
+    "meanDist": 437.27486156296936
+  },
+  {
+    "name": "Feinstein, Michael",
+    "occupations": [
+      "Singers",
+      "Pianists",
+      "Archivists",
+      "Actors",
+      "Musicologists"
+    ],
+    "totalDist": 1740.8500226322617,
+    "meanDist": 435.2125056580654
+  },
+  {
+    "name": "Jenden, Paul",
+    "occupations": [
+      "Choreographers",
+      "Entertainers",
+      "Designers",
+      "Lyricists",
+      "Theatrical producers and directors"
+    ],
+    "totalDist": 1735.4235222446773,
+    "meanDist": 433.85588056116933
+  },
+  {
+    "name": "Connick, Harry,",
+    "occupations": [
+      "Singer",
+      "Pianist",
+      "Actor",
+      "Composer"
+    ],
+    "totalDist": 1301.5338343075614,
+    "meanDist": 433.8446114358538
+  },
+  {
+    "name": "Aebersold, Jamey",
+    "occupations": [
+      "saxophonist",
+      "educator",
+      "publisher",
+      "record producer"
+    ],
+    "totalDist": 1295.0519854848726,
+    "meanDist": 431.6839951616242
+  },
+  {
+    "name": "Simon, George T.,",
+    "occupations": [
+      "Music critics",
+      "Drummers (Musicians)",
+      "Authors",
+      "Sound recording executives and producers"
+    ],
+    "totalDist": 1293.3669976087958,
+    "meanDist": 431.1223325362653
+  },
+  {
+    "name": "Bonavia, Ferruccio,",
+    "occupations": [
+      "Editors",
+      "Violinists",
+      "Music critics",
+      "Authors",
+      "Composers"
+    ],
+    "totalDist": 1719.5463496705838,
+    "meanDist": 429.88658741764596
+  },
+  {
+    "name": "Monroe, Vaughn,",
+    "occupations": [
+      "Composer",
+      "Author",
+      "Bandleader",
+      "Conductor"
+    ],
+    "totalDist": 1286.5499546001313,
+    "meanDist": 428.84998486671043
+  },
+  {
+    "name": "Restrepo Duque, Hernán,",
+    "occupations": [
+      "Journalists",
+      "Musicologists",
+      "Folklorists",
+      "Radio broadcasters"
+    ],
+    "totalDist": 1286.5361853909374,
+    "meanDist": 428.84539513031245
+  },
+  {
+    "name": "De Sylva, B. G.",
+    "occupations": [
+      "Producer",
+      "Composer",
+      "Writer",
+      "Actor"
+    ],
+    "totalDist": 1282.284058412285,
+    "meanDist": 427.4280194707617
+  },
+  {
+    "name": "Forsyth, Malcolm",
+    "occupations": [
+      "Composers",
+      "Trombonists",
+      "College teachers",
+      "Music teachers"
+    ],
+    "totalDist": 1276.3013325780068,
+    "meanDist": 425.4337775260023
+  },
+  {
+    "name": "Grainger, Percy,",
+    "occupations": [
+      "composer",
+      "pianist",
+      "editor",
+      "folk song collector"
+    ],
+    "totalDist": 1266.994156143679,
+    "meanDist": 422.3313853812263
+  },
+  {
+    "name": "Gould, Glenn",
+    "occupations": [
+      "Pianists",
+      "Authors",
+      "Composers",
+      "Conductors (Music)",
+      "Broadcasters"
+    ],
+    "totalDist": 1679.6669250742916,
+    "meanDist": 419.9167312685729
+  },
+  {
+    "name": "Pauer, E.",
+    "occupations": [
+      "Pianist",
+      "Teacher",
+      "Editor",
+      "Composer"
+    ],
+    "totalDist": 1258.6953615623847,
+    "meanDist": 419.5651205207949
+  },
+  {
+    "name": "Risaliti, Riccardo",
+    "occupations": [
+      "Pianist",
+      "Teacher",
+      "Musicologist",
+      "Critic",
+      "Editor"
+    ],
+    "totalDist": 1677.3664918508866,
+    "meanDist": 419.34162296272166
+  },
+  {
+    "name": "Moraes, Vinícius de",
+    "occupations": [
+      "Poets",
+      "Composers",
+      "Dramatists",
+      "Journalists",
+      "Diplomats"
+    ],
+    "totalDist": 1673.8972094034511,
+    "meanDist": 418.4743023508628
+  },
+  {
+    "name": "Turner, Jessica Baron",
+    "occupations": [
+      "Teacher",
+      "Curriculum developer",
+      "Author",
+      "Guitar instructor"
+    ],
+    "totalDist": 1249.3585143086027,
+    "meanDist": 416.4528381028676
+  },
+  {
+    "name": "Wright, Wilbur,",
+    "occupations": [
+      "airplane inventor/manufacturer",
+      "bicycle retailer/manufacturer",
+      "editor",
+      "pilot trainer"
+    ],
+    "totalDist": 1234.86485691771,
+    "meanDist": 411.62161897257005
+  },
+  {
+    "name": "Bello, Andrés,",
+    "occupations": [
+      "Poets",
+      "Legislators",
+      "Philosophers",
+      "Educators",
+      "Philologists"
+    ],
+    "totalDist": 1642.9581732956153,
+    "meanDist": 410.73954332390383
+  },
+  {
+    "name": "Krüger, Ekkehard",
+    "occupations": [
+      "Musicologists",
+      "Medievalists",
+      "Philosophers",
+      "Church musicians"
+    ],
+    "totalDist": 1231.549032501448,
+    "meanDist": 410.5163441671493
+  },
+  {
+    "name": "Brand, Stewart",
+    "occupations": [
+      "Inventor",
+      "Designer",
+      "Biologist",
+      "Army officer",
+      "Artist",
+      "Author"
+    ],
+    "totalDist": 2051.8861447726945,
+    "meanDist": 410.3772289545389
+  },
+  {
+    "name": "Li, Fang,",
+    "occupations": [
+      "scholar",
+      "official",
+      "prime minister",
+      "history editor"
+    ],
+    "totalDist": 1230.3614419959429,
+    "meanDist": 410.1204806653143
+  },
+  {
+    "name": "Beasley, John,",
+    "occupations": [
+      "Musician",
+      "Composer",
+      "Arranger",
+      "Producer",
+      "Pianist"
+    ],
+    "totalDist": 1630.6854028664447,
+    "meanDist": 407.6713507166112
+  },
+  {
+    "name": "Chittenden, Hiram Martin,",
+    "occupations": [
+      "Civil engineers",
+      "Authors",
+      "United States. Army--Officers",
+      "Army officer"
+    ],
+    "totalDist": 1219.7134098575225,
+    "meanDist": 406.5711366191742
+  },
+  {
+    "name": "Crowther, Duane S.",
+    "occupations": [
+      "Writer",
+      "Teacher",
+      "Composer",
+      "Editor"
+    ],
+    "totalDist": 1212.5247439944656,
+    "meanDist": 404.17491466482187
+  },
+  {
+    "name": "Rosselli, Amelia,",
+    "occupations": [
+      "Poets",
+      "Musicologists",
+      "Translators",
+      "Journalists"
+    ],
+    "totalDist": 1199.7368202560506,
+    "meanDist": 399.9122734186835
+  },
+  {
+    "name": "Webster, Donald,",
+    "occupations": [
+      "Organist",
+      "Choral conductor",
+      "Lecturer",
+      "Conductor"
+    ],
+    "totalDist": 1185.7152853315515,
+    "meanDist": 395.2384284438505
+  },
+  {
+    "name": "Dury, Ian,",
+    "occupations": [
+      "Punk rock musicians",
+      "Singers",
+      "Composers",
+      "Artists",
+      "Actors"
+    ],
+    "totalDist": 1580.6155829390325,
+    "meanDist": 395.1538957347581
+  },
+  {
+    "name": "Spitz, Bob",
+    "occupations": [
+      "Author",
+      "Journalist",
+      "Musician",
+      "Manager"
+    ],
+    "totalDist": 1183.788425429585,
+    "meanDist": 394.59614180986165
+  },
+  {
+    "name": "Mathews, W. S. B.",
+    "occupations": [
+      "Authors",
+      "Organists",
+      "Music teachers",
+      "Editors",
+      "Music critics"
+    ],
+    "totalDist": 1577.9735664117638,
+    "meanDist": 394.49339160294096
+  },
+  {
+    "name": "Williams, Tad",
+    "occupations": [
+      "author",
+      "singer",
+      "radio journalist",
+      "commercial artist"
+    ],
+    "totalDist": 1182.5529221208867,
+    "meanDist": 394.1843073736289
+  },
+  {
+    "name": "Finlay, Ian Hamilton",
+    "occupations": [
+      "Poets",
+      "Artists",
+      "Pacifists",
+      "Gardeners"
+    ],
+    "totalDist": 1180.4019438736677,
+    "meanDist": 393.4673146245559
+  },
+  {
+    "name": "Bristow, George Frederick,",
+    "occupations": [
+      "Composers",
+      "Musicians",
+      "Conductors (Music)",
+      "Teachers"
+    ],
+    "totalDist": 1179.5597766776664,
+    "meanDist": 393.1865922258888
+  },
+  {
+    "name": "Hafen, Lyman",
+    "occupations": [
+      "author",
+      "historian",
+      "lecturer",
+      "college instructor"
+    ],
+    "totalDist": 1169.516750229954,
+    "meanDist": 389.83891674331795
+  },
+  {
+    "name": "Salinas-Norman, Bobbi",
+    "occupations": [
+      "Authors",
+      "Illustrators",
+      "Teachers",
+      "Publishers"
+    ],
+    "totalDist": 1167.2188685038518,
+    "meanDist": 389.0729561679506
+  },
+  {
+    "name": "Ollman, Arthur",
+    "occupations": [
+      "Museum curators",
+      "Authors",
+      "Photographers",
+      "College administrators"
+    ],
+    "totalDist": 1163.5379981658677,
+    "meanDist": 387.8459993886226
+  },
+  {
+    "name": "Buerkle, Jack V.,",
+    "occupations": [
+      "Sociologist",
+      "College department head",
+      "Jazz musician",
+      "Radio personality"
+    ],
+    "totalDist": 1162.980398641884,
+    "meanDist": 387.660132880628
+  },
+  {
+    "name": "Bar-Niv, Rami",
+    "occupations": [
+      "Pianists",
+      "Composers",
+      "Authors",
+      "Piano teachers"
+    ],
+    "totalDist": 1160.283538292691,
+    "meanDist": 386.761179430897
+  },
+  {
+    "name": "Katz, Renina",
+    "occupations": [
+      "Recorder player",
+      "Painter",
+      "Draftsman",
+      "Illustrator",
+      "Teacher"
+    ],
+    "totalDist": 1541.6777762151355,
+    "meanDist": 385.4194440537839
+  },
+  {
+    "name": "Beckwith, John",
+    "occupations": [
+      "Composers",
+      "Authors",
+      "Educators",
+      "Pianists",
+      "Broadcasters"
+    ],
+    "totalDist": 1534.461486538835,
+    "meanDist": 383.61537163470877
+  },
+  {
+    "name": "Gilfert, George,",
+    "occupations": [
+      "Booksellers",
+      "Printers",
+      "Publishers",
+      "Organists"
+    ],
+    "totalDist": 1149.4642871264716,
+    "meanDist": 383.1547623754905
+  },
+  {
+    "name": "Berger, Wilhelm,",
+    "occupations": [
+      "Composers",
+      "Pianists",
+      "Teachers",
+      "Conductors (Music)"
+    ],
+    "totalDist": 1147.0528114933031,
+    "meanDist": 382.35093716443436
+  },
+  {
+    "name": "Hammond, George P.",
+    "occupations": [
+      "american historian",
+      "author",
+      "director of the Bancroft Library",
+      "professor"
+    ],
+    "totalDist": 1146.883964140256,
+    "meanDist": 382.29465471341865
+  },
+  {
+    "name": "Rodríguez Demorizi, Emilio,",
+    "occupations": [
+      "Historian",
+      "Diplomat",
+      "Essayist",
+      "Lawyer"
+    ],
+    "totalDist": 1144.9303365818228,
+    "meanDist": 381.64344552727425
+  },
+  {
+    "name": "Petersen, Mark E.",
+    "occupations": [
+      "Apostle of the Church of Jesus Christ of Latter-day Saints",
+      "Newspaper reporter",
+      "General manager",
+      "Author"
+    ],
+    "totalDist": 1144.4752589911584,
+    "meanDist": 381.4917529970528
+  },
+  {
+    "name": "Enns, Leonard,",
+    "occupations": [
+      "Composers",
+      "Choral conductors",
+      "College teachers",
+      "Music teachers"
+    ],
+    "totalDist": 1144.4045957148783,
+    "meanDist": 381.4681985716261
+  },
+  {
+    "name": "Atterberg, Kurt,",
+    "occupations": [
+      "Composer",
+      "Arts administrator",
+      "Conductor",
+      "Music critic"
+    ],
+    "totalDist": 1143.971374719472,
+    "meanDist": 381.3237915731573
+  },
+  {
+    "name": "Mooney, Harold,",
+    "occupations": [
+      "Composer",
+      "Arranger",
+      "Author",
+      "Bandleader",
+      "Conductor"
+    ],
+    "totalDist": 1524.4257790645881,
+    "meanDist": 381.10644476614704
+  },
+  {
+    "name": "Oistrakh, David,",
+    "occupations": [
+      "Violinists",
+      "Violists",
+      "Conductors (Music)",
+      "Violin teachers",
+      "Editors",
+      "Arrangers (Musicians)"
+    ],
+    "totalDist": 1897.1396829175378,
+    "meanDist": 379.4279365835076
+  },
+  {
+    "name": "Williams, C. F. Abdy",
+    "occupations": [
+      "Organists",
+      "Authors",
+      "Composers",
+      "Violinists"
+    ],
+    "totalDist": 1128.21247374105,
+    "meanDist": 376.07082458035
+  },
+  {
+    "name": "Naṣr Allāh, Ibrāhīm",
+    "occupations": [
+      "Author",
+      "Journalist",
+      "Teacher",
+      "Literary critic",
+      "Vice-president"
+    ],
+    "totalDist": 1503.1644148378057,
+    "meanDist": 375.7911037094514
+  },
+  {
+    "name": "Miller, Connie,",
+    "occupations": [
+      "Teacher",
+      "Pilot",
+      "Aircraft mechanic",
+      "Dancer"
+    ],
+    "totalDist": 1126.1214387626956,
+    "meanDist": 375.3738129208985
+  },
+  {
+    "name": "Goodman, Paul Roe",
+    "occupations": [
+      "Pianist",
+      "Organist",
+      "Author",
+      "Music teacher"
+    ],
+    "totalDist": 1122.5171043319242,
+    "meanDist": 374.1723681106414
+  },
+  {
+    "name": "Washington, George,",
+    "occupations": [
+      "Soldier",
+      "President of the United States",
+      "Politician",
+      "Surveyor",
+      "Farmer"
+    ],
+    "totalDist": 1491.476941705722,
+    "meanDist": 372.8692354264305
+  },
+  {
+    "name": "Caton, John Dean,",
+    "occupations": [
+      "lawyer",
+      "jurist",
+      "justice of the peace",
+      "judge",
+      "chief justice",
+      "author"
+    ],
+    "totalDist": 1856.199533307012,
+    "meanDist": 371.2399066614024
+  },
+  {
+    "name": "Higgins, John,",
+    "occupations": [
+      "Composers",
+      "Music teachers",
+      "Music publishers",
+      "Arrangers (Musicians)",
+      "Editors",
+      "Conductors (Music)"
+    ],
+    "totalDist": 1852.8229648829372,
+    "meanDist": 370.56459297658745
+  },
+  {
+    "name": "Leigh, Stephen",
+    "occupations": [
+      "Author",
+      "Lecturer",
+      "Artist",
+      "Musician"
+    ],
+    "totalDist": 1107.474504334486,
+    "meanDist": 369.15816811149534
+  },
+  {
+    "name": "Lewis, Jerry,",
+    "occupations": [
+      "Actors",
+      "Motion picture producers and directors",
+      "Composers",
+      "Screenwriters",
+      "Comedians",
+      "Singers"
+    ],
+    "totalDist": 1844.774912241647,
+    "meanDist": 368.95498244832936
+  },
+  {
+    "name": "Seymour, John Laurence",
+    "occupations": [
+      "Educators",
+      "Composers",
+      "Translators",
+      "Librarians"
+    ],
+    "totalDist": 1106.575248254493,
+    "meanDist": 368.85841608483105
+  },
+  {
+    "name": "Crotch, William,",
+    "occupations": [
+      "Composers",
+      "Organists",
+      "Music theorists",
+      "Painters"
+    ],
+    "totalDist": 1106.191156600537,
+    "meanDist": 368.73038553351233
+  },
+  {
+    "name": "Cohan, George M.",
+    "occupations": [
+      "Actors",
+      "Composers",
+      "Authors",
+      "Dramatists"
+    ],
+    "totalDist": 1103.6271092730801,
+    "meanDist": 367.8757030910267
+  },
+  {
+    "name": "Bach, Jan",
+    "occupations": [
+      "Composers",
+      "College teachers",
+      "Pianists",
+      "Horn players"
+    ],
+    "totalDist": 1099.8469108852016,
+    "meanDist": 366.61563696173386
+  },
+  {
+    "name": "Holstein, Jean-Paul,",
+    "occupations": [
+      "Composers",
+      "Musicologists",
+      "College teachers",
+      "Music teachers",
+      "Authors"
+    ],
+    "totalDist": 1466.3382139491614,
+    "meanDist": 366.58455348729035
+  },
+  {
+    "name": "Martynov, V. I.",
+    "occupations": [
+      "Composers",
+      "Philosophers",
+      "Authors",
+      "Historians",
+      "Music theorists"
+    ],
+    "totalDist": 1465.5872001592143,
+    "meanDist": 366.39680003980357
+  },
+  {
+    "name": "Foster, John Watson,",
+    "occupations": [
+      "U.S. Minister to Mexico",
+      "U.S. Minister to Russia",
+      "U.S. Minister to Spain",
+      "U.S. Secretary of State",
+      "lawyer",
+      "general",
+      "journalist",
+      "editor",
+      "diplimat",
+      "author"
+    ],
+    "totalDist": 3297.1365035484127,
+    "meanDist": 366.34850039426806
+  },
+  {
+    "name": "Blatný, Pavel,",
+    "occupations": [
+      "Pianists",
+      "Composers",
+      "Editors",
+      "Musicologists",
+      "Authors",
+      "Conductors (Music)",
+      "Music teachers"
+    ],
+    "totalDist": 2196.461749513574,
+    "meanDist": 366.07695825226233
+  },
+  {
+    "name": "Kubizek, Augustin,",
+    "occupations": [
+      "Composers",
+      "College teachers",
+      "Music teachers",
+      "Musicologists"
+    ],
+    "totalDist": 1095.5733550211198,
+    "meanDist": 365.1911183403733
+  },
+  {
+    "name": "Trimpe, Herb",
+    "occupations": [
+      "Artists",
+      "Teachers",
+      "Writer",
+      "Penciler",
+      "Inker"
+    ],
+    "totalDist": 1446.0904450292587,
+    "meanDist": 361.5226112573147
+  },
+  {
+    "name": "Birtel, Wolfgang",
+    "occupations": [
+      "musician",
+      "musicologist",
+      "arranger",
+      "editor"
+    ],
+    "totalDist": 1084.3302338264452,
+    "meanDist": 361.44341127548176
+  },
+  {
+    "name": "Fisher, A. S. T.",
+    "occupations": [
+      "Clergy",
+      "School chaplains",
+      "Poets",
+      "Teachers"
+    ],
+    "totalDist": 1078.1774359624583,
+    "meanDist": 359.39247865415274
+  },
+  {
+    "name": "Jepson, Warner",
+    "occupations": [
+      "Composers",
+      "Pianists",
+      "Photographers",
+      "Artists"
+    ],
+    "totalDist": 1076.1421328059103,
+    "meanDist": 358.71404426863677
+  },
+  {
+    "name": "Streisand, Barbra",
+    "occupations": [
+      "Singers",
+      "Actresses",
+      "Actors",
+      "Composers",
+      "Motion picture producers and directors"
+    ],
+    "totalDist": 1430.1217764114817,
+    "meanDist": 357.53044410287043
+  },
+  {
+    "name": "Pacéré Titinga,",
+    "occupations": [
+      "Author",
+      "Solicitor",
+      "Poet",
+      "Griot",
+      "Curator"
+    ],
+    "totalDist": 1425.7059070251835,
+    "meanDist": 356.42647675629587
+  },
+  {
+    "name": "Weinstein, Sidney,",
+    "occupations": [
+      "Authors",
+      "Neuroscientists",
+      "Sculptors",
+      "Teachers"
+    ],
+    "totalDist": 1067.858102968401,
+    "meanDist": 355.952700989467
+  },
+  {
+    "name": "Hamblin, Robert Lee,",
+    "occupations": [
+      "College professor",
+      "Sociologist",
+      "Pilot",
+      "Author"
+    ],
+    "totalDist": 1065.7680887738436,
+    "meanDist": 355.2560295912812
+  },
+  {
+    "name": "Gagné, Marc,",
+    "occupations": [
+      "Composers",
+      "Authors",
+      "Ethnomusicologists",
+      "Organists"
+    ],
+    "totalDist": 1061.042396136422,
+    "meanDist": 353.68079871214064
+  },
+  {
+    "name": "Lu, Zhiwei,",
+    "occupations": [
+      "Psychologists",
+      "Linguists",
+      "Educators",
+      "Poets"
+    ],
+    "totalDist": 1057.4488310792894,
+    "meanDist": 352.4829436930965
+  },
+  {
+    "name": "Canino, Bruno",
+    "occupations": [
+      "Pianists",
+      "Harpsichordists",
+      "Teachers",
+      "Composers"
+    ],
+    "totalDist": 1054.3769363659055,
+    "meanDist": 351.4589787886352
+  },
+  {
+    "name": "Monsiváis, Carlos,",
+    "occupations": [
+      "Authors",
+      "Critics",
+      "Political activists",
+      "Journalists"
+    ],
+    "totalDist": 1050.4844273578997,
+    "meanDist": 350.16147578596656
+  },
+  {
+    "name": "Uber, David,",
+    "occupations": [
+      "Composers",
+      "Conductors (Music)",
+      "Trombonists",
+      "College teachers",
+      "Arrangers (Musicians)"
+    ],
+    "totalDist": 1396.6063810479127,
+    "meanDist": 349.1515952619782
+  },
+  {
+    "name": "Cowell, Henry,",
+    "occupations": [
+      "Composers",
+      "Authors",
+      "Pianists",
+      "Music publishers",
+      "Music teachers"
+    ],
+    "totalDist": 1392.8498275740333,
+    "meanDist": 348.2124568935083
+  },
+  {
+    "name": "Müller, Lars,",
+    "occupations": [
+      "Visual communication studio owner",
+      "Publisher",
+      "Designer",
+      "Lecturer"
+    ],
+    "totalDist": 1043.0049698170458,
+    "meanDist": 347.6683232723486
+  },
+  {
+    "name": "Petrov, Ivaĭlo,",
+    "occupations": [
+      "Authors",
+      "Artists",
+      "Editors",
+      "Lawyers"
+    ],
+    "totalDist": 1041.6069188634563,
+    "meanDist": 347.2023062878188
+  },
+  {
+    "name": "Cannon, George Q.",
+    "occupations": [
+      "Religious leader",
+      "Missionary",
+      "Printer",
+      "Editor",
+      "Politician"
+    ],
+    "totalDist": 1388.1089433628008,
+    "meanDist": 347.0272358407002
+  },
+  {
+    "name": "Radzynski, Jan",
+    "occupations": [
+      "Composers",
+      "College teachers",
+      "Music teachers",
+      "Music theorists"
+    ],
+    "totalDist": 1039.0347649530481,
+    "meanDist": 346.344921651016
+  },
+  {
+    "name": "Waring, James,",
+    "occupations": [
+      "Dance teachers",
+      "Choreographers",
+      "Artists",
+      "lcsh"
+    ],
+    "totalDist": 1037.524257311462,
+    "meanDist": 345.84141910382067
+  },
+  {
+    "name": "Eleutheriou, Manos",
+    "occupations": [
+      "Photographers",
+      "Authors",
+      "Poets",
+      "Musicians"
+    ],
+    "totalDist": 1036.8747123889748,
+    "meanDist": 345.62490412965826
+  },
+  {
+    "name": "Beckmann, Max,",
+    "occupations": [
+      "Draughtsman",
+      "Painters",
+      "Printmakers",
+      "Teachers"
+    ],
+    "totalDist": 1036.2813762592118,
+    "meanDist": 345.42712541973725
+  },
+  {
+    "name": "Boretz, Benjamin",
+    "occupations": [
+      "Composers",
+      "Music theorists",
+      "Authors",
+      "Music teachers"
+    ],
+    "totalDist": 1033.5493348061764,
+    "meanDist": 344.51644493539214
+  },
+  {
+    "name": "Marín Trechera, Rafael",
+    "occupations": [
+      "Novelist",
+      "Translator",
+      "Comic book writer",
+      "Professor"
+    ],
+    "totalDist": 1031.5160592312563,
+    "meanDist": 343.8386864104188
+  },
+  {
+    "name": "Bauer, Marion,",
+    "occupations": [
+      "Composers",
+      "Authors",
+      "Music critics",
+      "Music teachers"
+    ],
+    "totalDist": 1030.698421793908,
+    "meanDist": 343.5661405979693
+  },
+  {
+    "name": "Perle, George,",
+    "occupations": [
+      "Composers",
+      "Authors",
+      "Music theorists",
+      "Music teachers"
+    ],
+    "totalDist": 1030.327546067709,
+    "meanDist": 343.44251535590297
+  },
+  {
+    "name": "Starr, Ringo",
+    "occupations": [
+      "Musicians",
+      "Singers",
+      "Actors",
+      "Drummers (Musicians)"
+    ],
+    "totalDist": 1029.2277371909224,
+    "meanDist": 343.07591239697416
+  },
+  {
+    "name": "Lancaster, E. L.,",
+    "occupations": [
+      "Pianist",
+      "Composer",
+      "Professor",
+      "Piano teacher",
+      "Vice-president of company",
+      "Editor"
+    ],
+    "totalDist": 1714.6669121291543,
+    "meanDist": 342.93338242583087
+  },
+  {
+    "name": "Marier, Theodore",
+    "occupations": [
+      "Editors",
+      "Arrangers (Musicians)",
+      "Church musicians",
+      "Educators",
+      "Organists",
+      "Choral conductors"
+    ],
+    "totalDist": 1709.8611225721072,
+    "meanDist": 341.97222451442144
+  },
+  {
+    "name": "Washburn, Robert,",
+    "occupations": [
+      "Composers",
+      "College teachers",
+      "Music teachers",
+      "Conductors (Music)",
+      "Deans (Education)"
+    ],
+    "totalDist": 1363.193566288537,
+    "meanDist": 340.7983915721343
+  },
+  {
+    "name": "Rathbun, Jeffrey",
+    "occupations": [
+      "Oboe players",
+      "Music teachers",
+      "College teachers",
+      "Composers"
+    ],
+    "totalDist": 1019.4309943178766,
+    "meanDist": 339.8103314392922
+  },
+  {
+    "name": "Epperson, Gordon",
+    "occupations": [
+      "College teachers",
+      "Music teachers",
+      "Violoncellists",
+      "Authors"
+    ],
+    "totalDist": 1013.9956625769285,
+    "meanDist": 337.9985541923095
+  },
+  {
+    "name": "Bie, Oskar,",
+    "occupations": [
+      "Authors",
+      "Art historians",
+      "High school teachers",
+      "Editors",
+      "Music critics",
+      "Art critics"
+    ],
+    "totalDist": 1684.030507303737,
+    "meanDist": 336.8061014607474
+  },
+  {
+    "name": "Wallner, Alexandra",
+    "occupations": [
+      "Author",
+      "Illustrator",
+      "Teacher",
+      "Lecturer"
+    ],
+    "totalDist": 1010.0512016566686,
+    "meanDist": 336.6837338855562
+  },
+  {
+    "name": "Wolfslast, Wilhelm",
+    "occupations": [
+      "Naval historians",
+      "Soldiers",
+      "Translators",
+      "Authors"
+    ],
+    "totalDist": 1009.8091553491963,
+    "meanDist": 336.60305178306544
+  },
+  {
+    "name": "Busch, Fritz-Otto,",
+    "occupations": [
+      "Naval historians",
+      "Soldiers",
+      "Translators",
+      "Authors"
+    ],
+    "totalDist": 1009.8091553491963,
+    "meanDist": 336.60305178306544
+  },
+  {
+    "name": "Caxton, William,",
+    "occupations": [
+      "printer",
+      "merchant",
+      "diplomat",
+      "writer",
+      "translator"
+    ],
+    "totalDist": 1342.5704430691283,
+    "meanDist": 335.64261076728206
+  },
+  {
+    "name": "David, Peter",
+    "occupations": [
+      "author",
+      "comic book writer",
+      "television/movie writer",
+      "video game writer"
+    ],
+    "totalDist": 1005.984827026185,
+    "meanDist": 335.328275675395
+  },
+  {
+    "name": "Allen, Woody,",
+    "occupations": [
+      "Motion picture producers and directors",
+      "Actors",
+      "Comedians",
+      "Screenwriters",
+      "Authors",
+      "Clarinetists",
+      "Dramatists"
+    ],
+    "totalDist": 2011.0707902801792,
+    "meanDist": 335.17846504669654
+  },
+  {
+    "name": "Armitage, Dennis,",
+    "occupations": [
+      "Composer",
+      "Jazz pianist",
+      "Saxophonist",
+      "Arranger",
+      "Painter"
+    ],
+    "totalDist": 1339.0565492931114,
+    "meanDist": 334.76413732327785
+  },
+  {
+    "name": "Baker, Pearl Biddlecome",
+    "occupations": [
+      "Author",
+      "Cattle rancher",
+      "School teacher",
+      "Postman",
+      "Clerk",
+      "Receptionist"
+    ],
+    "totalDist": 1669.968053889661,
+    "meanDist": 333.9936107779322
+  },
+  {
+    "name": "Bürkle, J. Christoph",
+    "occupations": [
+      "Art historians",
+      "Authors",
+      "Publishers and publishing",
+      "Architectural critics",
+      "College teachers",
+      "Photographers"
+    ],
+    "totalDist": 1661.6032369620364,
+    "meanDist": 332.3206473924073
+  },
+  {
+    "name": "Lavender, David,",
+    "occupations": [
+      "Author",
+      "Historian",
+      "Rancher",
+      "Miner",
+      "Photographer"
+    ],
+    "totalDist": 1319.5225153592921,
+    "meanDist": 329.88062883982303
+  },
+  {
+    "name": "Sili︠a︡novski, Trifon,",
+    "occupations": [
+      "Musician",
+      "Pianist",
+      "Teacher",
+      "Composer",
+      "Historian",
+      "Philosopher",
+      "Theologian",
+      "Linguist"
+    ],
+    "totalDist": 2304.719255162065,
+    "meanDist": 329.24560788029504
+  },
+  {
+    "name": "Figari, Pedro,",
+    "occupations": [
+      "Lawyers",
+      "Painters",
+      "Journalists",
+      "Legislators",
+      "Politicians",
+      "Educators",
+      "Philosophers"
+    ],
+    "totalDist": 1974.0334784648198,
+    "meanDist": 329.00557974413664
+  },
+  {
+    "name": "Hartmann, J. P. E.",
+    "occupations": [
+      "Government lawyer",
+      "Composer",
+      "Organist",
+      "Conductor",
+      "Music teacher"
+    ],
+    "totalDist": 1306.914416084428,
+    "meanDist": 326.728604021107
+  },
+  {
+    "name": "Abell, Sam",
+    "occupations": [
+      "photographer",
+      "editor",
+      "teacher",
+      "artist",
+      "author"
+    ],
+    "totalDist": 1306.810668446455,
+    "meanDist": 326.7026671116138
+  },
+  {
+    "name": "Hough, Emerson,",
+    "occupations": [
+      "author",
+      "novelist",
+      "newspaper columnist",
+      "lawyer",
+      "conservationist"
+    ],
+    "totalDist": 1295.0099163996258,
+    "meanDist": 323.75247909990645
+  },
+  {
+    "name": "Kostelanetz, Richard",
+    "occupations": [
+      "Authors",
+      "Artists",
+      "Critics",
+      "Poets",
+      "Composers",
+      "Lecturers",
+      "Filmmaker",
+      "Video artist"
+    ],
+    "totalDist": 2254.4939744263547,
+    "meanDist": 322.0705677751935
+  },
+  {
+    "name": "Kohs, Ellis B.,",
+    "occupations": [
+      "Composers",
+      "College teachers",
+      "Music theorists",
+      "College department heads",
+      "Authors"
+    ],
+    "totalDist": 1280.8217660040177,
+    "meanDist": 320.20544150100443
+  },
+  {
+    "name": "Reichl, Ruth",
+    "occupations": [
+      "Food writers",
+      "Women food writers",
+      "Periodical editors",
+      "Women periodical editors",
+      "Editors",
+      "Women editors",
+      "Restaurant critic",
+      "Television personalities",
+      "Women television personalities"
+    ],
+    "totalDist": 2560.484770401236,
+    "meanDist": 320.0605963001545
+  },
+  {
+    "name": "Houllif, Murray",
+    "occupations": [
+      "Music teachers",
+      "Band directors",
+      "Percussionists",
+      "Authors",
+      "Composers"
+    ],
+    "totalDist": 1274.6894243400432,
+    "meanDist": 318.6723560850108
+  },
+  {
+    "name": "Goldstein, Kenneth S.,",
+    "occupations": [
+      "Folklorists",
+      "Sound recording executives and producers",
+      "College teachers",
+      "Scholars",
+      "Publishers and publishing",
+      "Editors"
+    ],
+    "totalDist": 1591.7401375257207,
+    "meanDist": 318.34802750514416
+  },
+  {
+    "name": "Hodgman, F.,",
+    "occupations": [
+      "Surveyors",
+      "Soldiers",
+      "Authors",
+      "Poets",
+      "Photographers",
+      "Civil engineers",
+      "Publishers and publishing",
+      "Composers"
+    ],
+    "totalDist": 2221.577903953378,
+    "meanDist": 317.36827199333976
+  },
+  {
+    "name": "Rivers, Larry,",
+    "occupations": [
+      "Painters",
+      "Sculptors",
+      "Saxophonists",
+      "Jazz musicians",
+      "Authors",
+      "Poets",
+      "Teachers",
+      "Actors",
+      "Motion picture producers and directors"
+    ],
+    "totalDist": 2532.7372302370973,
+    "meanDist": 316.59215377963716
+  },
+  {
+    "name": "Nakai, R. Carlos,",
+    "occupations": [
+      "Composers",
+      "Musicians",
+      "Artists",
+      "Teachers",
+      "Anthropologists",
+      "Native American flute players"
+    ],
+    "totalDist": 1554.475863468581,
+    "meanDist": 310.89517269371623
+  },
+  {
+    "name": "Clementi, Muzio,",
+    "occupations": [
+      "Composer",
+      "Keyboard player",
+      "Teacher",
+      "Publisher",
+      "Piano manufacturer"
+    ],
+    "totalDist": 1231.6118089933343,
+    "meanDist": 307.9029522483336
+  },
+  {
+    "name": "Fox, Carol",
+    "occupations": [
+      "Translator",
+      "Adaptor",
+      "Editor",
+      "Copywriter",
+      "Online content editor",
+      "Blogger"
+    ],
+    "totalDist": 1536.575458995984,
+    "meanDist": 307.3150917991968
+  },
+  {
+    "name": "Baptista Gumucio, Mariano",
+    "occupations": [
+      "Lawyer",
+      "Journalist",
+      "Librarian",
+      "Ambassador",
+      "Historian"
+    ],
+    "totalDist": 1227.0431726108643,
+    "meanDist": 306.7607931527161
+  },
+  {
+    "name": "Bishop, Martha",
+    "occupations": [
+      "Violists",
+      "Music editor",
+      "Authors",
+      "Composers",
+      "Music teachers"
+    ],
+    "totalDist": 1218.6527383429393,
+    "meanDist": 304.6631845857348
+  },
+  {
+    "name": "Owen, Jim,",
+    "occupations": [
+      "Country musicians",
+      "Composers",
+      "Actors",
+      "Singers",
+      "Comedians"
+    ],
+    "totalDist": 1208.4049063570542,
+    "meanDist": 302.10122658926355
+  },
+  {
+    "name": "Hayes, William,",
+    "occupations": [
+      "Music teachers",
+      "College teachers",
+      "Composers",
+      "Organists",
+      "Singers"
+    ],
+    "totalDist": 1201.9329029471323,
+    "meanDist": 300.4832257367831
+  },
+  {
+    "name": "Hayes, Phil.",
+    "occupations": [
+      "Music teachers",
+      "College teachers",
+      "Composers",
+      "Organists",
+      "Singers"
+    ],
+    "totalDist": 1201.9329029471323,
+    "meanDist": 300.4832257367831
+  },
+  {
+    "name": "Brandel, Rose",
+    "occupations": [
+      "Composers",
+      "College teachers",
+      "Ethnomusicologists",
+      "Editors",
+      "Authors"
+    ],
+    "totalDist": 1194.2614265807017,
+    "meanDist": 298.5653566451754
+  },
+  {
+    "name": "Greenstein, Elaine",
+    "occupations": [
+      "author",
+      "illustrator",
+      "sculptor",
+      "teacher",
+      "chef",
+      "executive"
+    ],
+    "totalDist": 1483.621332332341,
+    "meanDist": 296.7242664664682
+  },
+  {
+    "name": "Allen, Samuel W.",
+    "occupations": [
+      "Poet",
+      "Educator",
+      "Translator",
+      "Lawyer",
+      "Politician"
+    ],
+    "totalDist": 1184.6545564812116,
+    "meanDist": 296.1636391203029
+  },
+  {
+    "name": "Schjelderup-Ebbe, Dag",
+    "occupations": [
+      "Musicologists",
+      "Composers",
+      "College teachers",
+      "Music critics",
+      "Editors"
+    ],
+    "totalDist": 1180.6377024075452,
+    "meanDist": 295.1594256018863
+  },
+  {
+    "name": "Snell, Tony,",
+    "occupations": [
+      "Fighter pilot",
+      "Actor",
+      "Singer",
+      "Composer",
+      "Lyricist"
+    ],
+    "totalDist": 1176.858199550064,
+    "meanDist": 294.214549887516
+  },
+  {
+    "name": "Anger, Darol",
+    "occupations": [
+      "Violinists",
+      "Mandolinists",
+      "Guitarists",
+      "Authors",
+      "Educators",
+      "Composers",
+      "Publisher"
+    ],
+    "totalDist": 1746.552204298117,
+    "meanDist": 291.09203404968616
+  },
+  {
+    "name": "Gawthrop, Daniel E.",
+    "occupations": [
+      "Composers",
+      "Broadcasters",
+      "Organists",
+      "Conductors (Music)",
+      "Music teachers",
+      "Authors",
+      "Music critics"
+    ],
+    "totalDist": 1736.9865347821437,
+    "meanDist": 289.49775579702396
+  },
+  {
+    "name": "Jamís, Fayad",
+    "occupations": [
+      "Poets",
+      "Painters",
+      "Graphic artists",
+      "Diplomats",
+      "Journalists"
+    ],
+    "totalDist": 1155.1552685070412,
+    "meanDist": 288.7888171267603
+  },
+  {
+    "name": "Hart, Joseph,",
+    "occupations": [
+      "Theatrical producers and directors",
+      "Lyricists",
+      "Composers",
+      "Actors",
+      "Writers"
+    ],
+    "totalDist": 1139.372096915067,
+    "meanDist": 284.84302422876675
+  },
+  {
+    "name": "Routh, Francis",
+    "occupations": [
+      "Pianist",
+      "Organist",
+      "Conductor",
+      "Author",
+      "Composer"
+    ],
+    "totalDist": 1133.32894954078,
+    "meanDist": 283.332237385195
+  },
+  {
+    "name": "Bubeník, Květoslav,",
+    "occupations": [
+      "Illustrators",
+      "Teachers",
+      "Costume designers",
+      "Graphic artists",
+      "Painters"
+    ],
+    "totalDist": 1133.2122184312145,
+    "meanDist": 283.30305460780363
+  },
+  {
+    "name": "Simon, Paul,",
+    "occupations": [
+      "Legislators",
+      "Lieutenant governors",
+      "Newspaper editors",
+      "Publishers and publishing",
+      "College teachers"
+    ],
+    "totalDist": 1127.206561964931,
+    "meanDist": 281.8016404912328
+  },
+  {
+    "name": "Blockx, Jan,",
+    "occupations": [
+      "Composer",
+      "Pianist",
+      "Teacher",
+      "Conductor",
+      "Director of music school"
+    ],
+    "totalDist": 1119.4059542770979,
+    "meanDist": 279.85148856927447
+  },
+  {
+    "name": "Strong, Roy",
+    "occupations": [
+      "Art historians",
+      "Museum curators",
+      "Authors",
+      "Broadcasters",
+      "Landscape architects"
+    ],
+    "totalDist": 1117.8788751977236,
+    "meanDist": 279.4697187994309
+  },
+  {
+    "name": "Condon, Eddie,",
+    "occupations": [
+      "banjoist",
+      "guitarist",
+      "bandleader",
+      "promoter",
+      "author",
+      "raconteur"
+    ],
+    "totalDist": 1397.0217221578484,
+    "meanDist": 279.4043444315697
+  },
+  {
+    "name": "Nemser, Cindy",
+    "occupations": [
+      "Artists",
+      "Authors",
+      "Art critics",
+      "Theater critics",
+      "Periodical editors"
+    ],
+    "totalDist": 1115.2108456154938,
+    "meanDist": 278.80271140387345
+  },
+  {
+    "name": "Dojčinović, Uroš,",
+    "occupations": [
+      "Guitarists",
+      "Composers",
+      "Music teachers",
+      "Music publishers",
+      "Arrangers (Musicians)",
+      "Authors",
+      "Editors",
+      "Musicologists",
+      "Philologists"
+    ],
+    "totalDist": 2229.172745692316,
+    "meanDist": 278.6465932115395
+  },
+  {
+    "name": "Oliver, Benjamin L.",
+    "occupations": [
+      "Lawyers",
+      "Composers",
+      "Editors",
+      "Publishers",
+      "Teachers"
+    ],
+    "totalDist": 1108.7554591882983,
+    "meanDist": 277.1888647970746
+  },
+  {
+    "name": "Russell, I. K.",
+    "occupations": [
+      "Authors",
+      "Editors",
+      "Authors and publishers",
+      "Journalists",
+      "Soldiers"
+    ],
+    "totalDist": 1107.0758988207394,
+    "meanDist": 276.76897470518486
+  },
+  {
+    "name": "Tomerlin, John,",
+    "occupations": [
+      "Novelist",
+      "Screenwriter",
+      "Disc jockey",
+      "Sportscaster",
+      "Race car driver",
+      "Air pilot"
+    ],
+    "totalDist": 1376.4409396302692,
+    "meanDist": 275.28818792605387
+  },
+  {
+    "name": "Averitt, William,",
+    "occupations": [
+      "Composers",
+      "Music teachers",
+      "College teachers",
+      "Conductors (Music)",
+      "Choral conductors"
+    ],
+    "totalDist": 1100.597148791523,
+    "meanDist": 275.14928719788077
+  },
+  {
+    "name": "Cone, Edward T.",
+    "occupations": [
+      "Composers",
+      "Musicologists",
+      "Music critics",
+      "Editors",
+      "Music theorists"
+    ],
+    "totalDist": 1099.8373160065703,
+    "meanDist": 274.9593290016426
+  },
+  {
+    "name": "Kenney, E. J.",
+    "occupations": [
+      "Classical languages and literature",
+      "Professor",
+      "Author",
+      "University administrator",
+      "Editor"
+    ],
+    "totalDist": 1098.1232888729378,
+    "meanDist": 274.53082221823445
+  },
+  {
+    "name": "Jacobson, Sidney",
+    "occupations": [
+      "Managing editor",
+      "Comic book author",
+      "Songwriter",
+      "Novelist",
+      "Biographer"
+    ],
+    "totalDist": 1096.4555203259663,
+    "meanDist": 274.1138800814916
+  },
+  {
+    "name": "Wilson, Gerald,",
+    "occupations": [
+      "Composer",
+      "Arranger",
+      "Musician",
+      "Lecturer",
+      "Disk jockey"
+    ],
+    "totalDist": 1094.0445226150591,
+    "meanDist": 273.5111306537648
+  },
+  {
+    "name": "Carrington, Terri Lyne",
+    "occupations": [
+      "Drummers (Musicians)",
+      "Composers",
+      "Singers",
+      "Sound recording executives and producers",
+      "Jazz musicians",
+      "College teachers",
+      "Music teachers"
+    ],
+    "totalDist": 1639.5076493831689,
+    "meanDist": 273.25127489719483
+  },
+  {
+    "name": "Mirabeau, Honoré-Gabriel de Riqueti,",
+    "occupations": [
+      "French revolutionary",
+      "Diplomat",
+      "Journalist",
+      "Politician",
+      "Orator",
+      "Statesman"
+    ],
+    "totalDist": 1357.794152186107,
+    "meanDist": 271.55883043722145
+  },
+  {
+    "name": "Sultanof, Jeff",
+    "occupations": [
+      "Editors",
+      "Arrangers (Musicians)",
+      "Conductors (Music)",
+      "Music teachers",
+      "Elementary school teachers"
+    ],
+    "totalDist": 1084.4222119908889,
+    "meanDist": 271.1055529977222
+  },
+  {
+    "name": "McKenzie, Jack,",
+    "occupations": [
+      "Music teacher",
+      "College administrator",
+      "Percussionist",
+      "Composer",
+      "Conductor"
+    ],
+    "totalDist": 1076.021448055332,
+    "meanDist": 269.005362013833
+  },
+  {
+    "name": "Scharnberg, Kim",
+    "occupations": [
+      "Arranger",
+      "Composer",
+      "Conductor",
+      "Orchestrator",
+      "Producer"
+    ],
+    "totalDist": 1072.9034069336158,
+    "meanDist": 268.22585173340394
+  },
+  {
+    "name": "Olon-Scrymgeour, John,",
+    "occupations": [
+      "Librettists",
+      "Opera producers and directors",
+      "Theatrical producers and directors",
+      "Authors",
+      "Designers",
+      "Teachers",
+      "Translators"
+    ],
+    "totalDist": 1597.0729348175187,
+    "meanDist": 266.17882246958646
+  },
+  {
+    "name": "Baum, Markus,",
+    "occupations": [
+      "Author",
+      "Editors",
+      "lcsh",
+      "Translators",
+      "lcsh"
+    ],
+    "totalDist": 1063.5426426145625,
+    "meanDist": 265.8856606536406
+  },
+  {
+    "name": "Arnold, Marilyn,",
+    "occupations": [
+      "university professor",
+      "university administrator",
+      "author",
+      "editor",
+      "lyricist"
+    ],
+    "totalDist": 1056.3601155805418,
+    "meanDist": 264.09002889513545
+  },
+  {
+    "name": "Boyd, Herb,",
+    "occupations": [
+      "Historian",
+      "Activist",
+      "Journalist",
+      "Educator",
+      "Author"
+    ],
+    "totalDist": 1049.793140544062,
+    "meanDist": 262.4482851360155
+  },
+  {
+    "name": "Jackson, Paul,",
+    "occupations": [
+      "Guitarists",
+      "Composers",
+      "Arrangers (Musicians)",
+      "Sound recording executives and producers",
+      "Jazz musicians",
+      "Actors"
+    ],
+    "totalDist": 1311.0173089045109,
+    "meanDist": 262.20346178090216
+  },
+  {
+    "name": "Fothergill, Chuck",
+    "occupations": [
+      "Author",
+      "Fisherman",
+      "Fishing guide",
+      "Retailer",
+      "Wholesaler"
+    ],
+    "totalDist": 1045.940930745332,
+    "meanDist": 261.485232686333
+  },
+  {
+    "name": "Rogers, David,",
+    "occupations": [
+      "Dramatist",
+      "Librettist",
+      "Lyricist",
+      "Novelist",
+      "Actor"
+    ],
+    "totalDist": 1040.9489444704386,
+    "meanDist": 260.23723611760965
+  },
+  {
+    "name": "Porter, Quincy,",
+    "occupations": [
+      "Composers",
+      "Violists",
+      "Music teachers",
+      "College teachers",
+      "Deans (Education)"
+    ],
+    "totalDist": 1040.2005167239422,
+    "meanDist": 260.05012918098555
+  },
+  {
+    "name": "Martin, William R.,",
+    "occupations": [
+      "Musicologists",
+      "College teachers",
+      "College department heads",
+      "Singers",
+      "Choral conductors"
+    ],
+    "totalDist": 1034.2004649861722,
+    "meanDist": 258.55011624654304
+  },
+  {
+    "name": "King, Carole,",
+    "occupations": [
+      "Singers",
+      "Composers",
+      "Lyricists",
+      "Pianists",
+      "Songwriter"
+    ],
+    "totalDist": 1032.775338452149,
+    "meanDist": 258.19383461303727
+  },
+  {
+    "name": "Winsor, Phil,",
+    "occupations": [
+      "College teacher",
+      "Educator",
+      "Lecturer",
+      "Photographer",
+      "Author",
+      "Composer",
+      "Musician",
+      "Computer programmer"
+    ],
+    "totalDist": 1803.4355618440652,
+    "meanDist": 257.6336516920093
+  },
+  {
+    "name": "Thomson, John Turnbull",
+    "occupations": [
+      "Surveyors",
+      "Engineers",
+      "Architects",
+      "Explorers",
+      "Artists",
+      "Authors"
+    ],
+    "totalDist": 1287.2121262669746,
+    "meanDist": 257.4424252533949
+  },
+  {
+    "name": "Vaës, Alain",
+    "occupations": [
+      "Artist",
+      "Illustrator",
+      "Author",
+      "Set designer",
+      "Costume designer"
+    ],
+    "totalDist": 1027.325112869422,
+    "meanDist": 256.8312782173555
+  },
+  {
+    "name": "Talmage, James E.",
+    "occupations": [
+      "professor",
+      "geologist",
+      "administrator",
+      "church officer",
+      "missionary"
+    ],
+    "totalDist": 1027.0867373517524,
+    "meanDist": 256.7716843379381
+  },
+  {
+    "name": "Macdonald, Finlay",
+    "occupations": [
+      "Authors",
+      "Journalists",
+      "Editors",
+      "Publishers and publishing",
+      "Broadcasters"
+    ],
+    "totalDist": 1026.2548285013017,
+    "meanDist": 256.56370712532544
+  },
+  {
+    "name": "Mattheson, Johann,",
+    "occupations": [
+      "Composers",
+      "Music critics",
+      "Music journalists",
+      "Lexicographers",
+      "Music theorists"
+    ],
+    "totalDist": 1023.6958633608785,
+    "meanDist": 255.92396584021964
+  },
+  {
+    "name": "McKean, Michael",
+    "occupations": [
+      "Actor",
+      "Writer",
+      "Producer",
+      "Composer",
+      "Musician"
+    ],
+    "totalDist": 1019.6547155669192,
+    "meanDist": 254.9136788917298
+  },
+  {
+    "name": "Brumfield, William Craft,",
+    "occupations": [
+      "Slavists",
+      "Architectural historians",
+      "College teachers",
+      "Photographers",
+      "Architecture photographers"
+    ],
+    "totalDist": 1018.8541518847345,
+    "meanDist": 254.71353797118363
+  },
+  {
+    "name": "Komitas,",
+    "occupations": [
+      "composer",
+      "ethnomusicologist",
+      "choral conductor",
+      "singer",
+      "teacher"
+    ],
+    "totalDist": 1017.3941462792668,
+    "meanDist": 254.3485365698167
+  },
+  {
+    "name": "Pietzsch, Gerhard,",
+    "occupations": [
+      "College teacher",
+      "Dramatist",
+      "Musician",
+      "Musicologist",
+      "Author"
+    ],
+    "totalDist": 1013.9916072764481,
+    "meanDist": 253.49790181911203
+  },
+  {
+    "name": "Monod, Jacques-Louis,",
+    "occupations": [
+      "Conductors (Music)",
+      "Composers",
+      "Pianists",
+      "Editors",
+      "College teachers"
+    ],
+    "totalDist": 1012.4936861321069,
+    "meanDist": 253.12342153302671
+  },
+  {
+    "name": "Alencar, José Martiniano de,",
+    "occupations": [
+      "Novelists",
+      "Critics",
+      "Journalists",
+      "Politicians",
+      "Poets"
+    ],
+    "totalDist": 1009.4445763999379,
+    "meanDist": 252.36114409998447
+  },
+  {
+    "name": "Brewer, David",
+    "occupations": [
+      "Children's book author",
+      "Children's book illustrator",
+      "Comic book artist",
+      "Animator",
+      "Web site designer"
+    ],
+    "totalDist": 1009.2185370753529,
+    "meanDist": 252.3046342688382
+  },
+  {
+    "name": "Pasternak, Velvel",
+    "occupations": [
+      "Musicologist",
+      "Conductor",
+      "Arranger",
+      "Producer",
+      "Publisher"
+    ],
+    "totalDist": 1004.5315743563649,
+    "meanDist": 251.13289358909122
+  },
+  {
+    "name": "Kranz, Albert,",
+    "occupations": [
+      "Cantors (Church music)",
+      "Composers",
+      "Choral conductors",
+      "Arrangers (Musicians)",
+      "Editors"
+    ],
+    "totalDist": 1000.1227119008548,
+    "meanDist": 250.0306779752137
+  },
+  {
+    "name": "Gira, M.",
+    "occupations": [
+      "Rock musicians",
+      "Authors",
+      "Sound recording executives and producers",
+      "Composers",
+      "Singers",
+      "Guitarists"
+    ],
+    "totalDist": 1246.256096095545,
+    "meanDist": 249.251219219109
+  },
+  {
+    "name": "Jagger, Mick",
+    "occupations": [
+      "Musicians",
+      "Rock musicians",
+      "Rhythm and blues musicians",
+      "Blues musicians",
+      "Singers",
+      "Composers",
+      "Actors",
+      "Sound recording executives and producers",
+      "Motion picture producers and directors"
+    ],
+    "totalDist": 1988.6476233296455,
+    "meanDist": 248.5809529162057
+  },
+  {
+    "name": "Jarvis, Jeff",
+    "occupations": [
+      "Trumpet players",
+      "Composers",
+      "Jazz musicians",
+      "Conductors (Music)",
+      "College teachers",
+      "Music teachers",
+      "Music school administrators"
+    ],
+    "totalDist": 1490.6266888995704,
+    "meanDist": 248.43778148326172
+  },
+  {
+    "name": "Waits, Tom,",
+    "occupations": [
+      "Singers",
+      "Composers",
+      "Pianists",
+      "Guitarists",
+      "Percussionists",
+      "Actors",
+      "Rock musicians"
+    ],
+    "totalDist": 1487.8650167235696,
+    "meanDist": 247.9775027872616
+  },
+  {
+    "name": "Iman, Yusef,",
+    "occupations": [
+      "Activist",
+      "Singer",
+      "Poet",
+      "Actor",
+      "Teacher",
+      "Minister"
+    ],
+    "totalDist": 1237.7004270710775,
+    "meanDist": 247.5400854142155
+  },
+  {
+    "name": "Chen, Ruixian,",
+    "occupations": [
+      "Poets",
+      "Sculptors",
+      "Calligraphers",
+      "Philosophers",
+      "Costume designers",
+      "Translators"
+    ],
+    "totalDist": 1236.8266895999961,
+    "meanDist": 247.36533791999923
+  },
+  {
+    "name": "Whitney, Orson F.",
+    "occupations": [
+      "Author",
+      "Politician",
+      "Journalist",
+      "Historian",
+      "Apostle",
+      "State Senator",
+      "Treasurer"
+    ],
+    "totalDist": 1429.6916088218181,
+    "meanDist": 238.28193480363635
+  },
+  {
+    "name": "Isaacs, Jorge,",
+    "occupations": [
+      "Novelist",
+      "Poet",
+      "Storyteller",
+      "Essayist",
+      "Journalist",
+      "Politician",
+      "Schoolteacher"
+    ],
+    "totalDist": 1425.5682695096082,
+    "meanDist": 237.59471158493469
+  },
+  {
+    "name": "Marmontel, Jean-François,",
+    "occupations": [
+      "Author",
+      "Historian",
+      "Librettist",
+      "Poet",
+      "Editor",
+      "Legislator"
+    ],
+    "totalDist": 1187.515423995698,
+    "meanDist": 237.5030847991396
+  },
+  {
+    "name": "Agraphiōtēs, Dēmosthenēs",
+    "occupations": [
+      "poet",
+      "photographer",
+      "editor",
+      "sociologist",
+      "painter",
+      "writer"
+    ],
+    "totalDist": 1179.945868285351,
+    "meanDist": 235.9891736570702
+  },
+  {
+    "name": "Nemiroff, Robert",
+    "occupations": [
+      "Theatrical producers and directors",
+      "Dramatists",
+      "Political activists",
+      "Editors",
+      "Music publishers",
+      "Composers"
+    ],
+    "totalDist": 1177.4907376839667,
+    "meanDist": 235.49814753679334
+  },
+  {
+    "name": "Henry, Jeff",
+    "occupations": [
+      "author",
+      "photographer",
+      "ranger",
+      "fire fighter",
+      "fishing guide",
+      "winterkeeper"
+    ],
+    "totalDist": 1172.0638194401383,
+    "meanDist": 234.41276388802765
+  },
+  {
+    "name": "Weeks, Marcus",
+    "occupations": [
+      "Author",
+      "English tutor",
+      "Editor",
+      "Musician",
+      "Music teacher",
+      "Piano tuner",
+      "Composer",
+      "Arranger",
+      "Gallery manager"
+    ],
+    "totalDist": 1859.2075317334866,
+    "meanDist": 232.40094146668582
+  },
+  {
+    "name": "Polansky, Larry,",
+    "occupations": [
+      "Composers",
+      "Music theorists",
+      "Music teachers",
+      "College teachers",
+      "Guitarists",
+      "Mandolinists",
+      "Music publishers"
+    ],
+    "totalDist": 1394.0953865270246,
+    "meanDist": 232.34923108783744
+  },
+  {
+    "name": "Walsh, Joe",
+    "occupations": [
+      "Guitarists",
+      "Keyboard players",
+      "Sound recording executives and producers",
+      "Singers",
+      "Composers",
+      "Actors",
+      "Rock musicians"
+    ],
+    "totalDist": 1385.850012636789,
+    "meanDist": 230.97500210613148
+  },
+  {
+    "name": "Bewley, Lois",
+    "occupations": [
+      "Ballerina",
+      "Choreographer",
+      "Costume designer",
+      "Set designer",
+      "Opera director",
+      "Artist"
+    ],
+    "totalDist": 1151.1507762212536,
+    "meanDist": 230.23015524425074
+  },
+  {
+    "name": "Franklin, Benjamin,",
+    "occupations": [
+      "Inventor",
+      "Printer",
+      "Publisher",
+      "Diplomat",
+      "Political leader",
+      "Scientist",
+      "Writer"
+    ],
+    "totalDist": 1375.2106873539142,
+    "meanDist": 229.20178122565235
+  },
+  {
+    "name": "Pickett, Lenny",
+    "occupations": [
+      "Saxophonists",
+      "Flute players",
+      "Clarinetists",
+      "Composers",
+      "Arrangers (Musicians)",
+      "Music teachers",
+      "College teachers",
+      "Jazz musicians",
+      "Music director"
+    ],
+    "totalDist": 1827.9339850869533,
+    "meanDist": 228.49174813586916
+  },
+  {
+    "name": "Melville, Herman,",
+    "occupations": [
+      "Novelist",
+      "Short story writer",
+      "Teacher",
+      "Sailor",
+      "Lecturer",
+      "Poet",
+      "Customs inspector"
+    ],
+    "totalDist": 1355.611634869145,
+    "meanDist": 225.93527247819085
+  },
+  {
+    "name": "Powell, John Wesley,",
+    "occupations": [
+      "Explorer",
+      "Geologist",
+      "Professor",
+      "Director",
+      "Soldier",
+      "Author"
+    ],
+    "totalDist": 1126.2564898327555,
+    "meanDist": 225.2512979665511
+  },
+  {
+    "name": "Cale, David",
+    "occupations": [
+      "Actor",
+      "Playwright",
+      "Narrator",
+      "Author",
+      "Composer",
+      "Lyricist"
+    ],
+    "totalDist": 1123.4773928393981,
+    "meanDist": 224.69547856787963
+  },
+  {
+    "name": "Thoreau, Henry David,",
+    "occupations": [
+      "Author",
+      "Poet",
+      "Naturalist",
+      "Abolitionist",
+      "Philosopher",
+      "Transcendentalist"
+    ],
+    "totalDist": 1110.7143286359367,
+    "meanDist": 222.14286572718734
+  },
+  {
+    "name": "Serling, Rod,",
+    "occupations": [
+      "Scriptwriters",
+      "Novelists",
+      "Television producers",
+      "Narrator",
+      "Teachers",
+      "Speaker",
+      "Political activists"
+    ],
+    "totalDist": 1325.0612807303712,
+    "meanDist": 220.8435467883952
+  },
+  {
+    "name": "Ulloa, Antonio de,",
+    "occupations": [
+      "Commander",
+      "General",
+      "Explorer",
+      "Author",
+      "Astronomer",
+      "Colonial administrator"
+    ],
+    "totalDist": 1097.3521952236404,
+    "meanDist": 219.47043904472807
+  },
+  {
+    "name": "Cagney, James,",
+    "occupations": [
+      "Actors",
+      "Singers",
+      "Dancers",
+      "Motion picture producers",
+      "Motion picture directors",
+      "Authors"
+    ],
+    "totalDist": 1096.636625994667,
+    "meanDist": 219.32732519893338
+  },
+  {
+    "name": "Benjamin, Walter,",
+    "occupations": [
+      "Journalists",
+      "Critics",
+      "Philosophers",
+      "Translators",
+      "Radio broadcasters",
+      "Essayists"
+    ],
+    "totalDist": 1093.455477835416,
+    "meanDist": 218.6910955670832
+  },
+  {
+    "name": "Neupert, Hanns",
+    "occupations": [
+      "Authors",
+      "Businessmen",
+      "Physicists",
+      "Musicologists",
+      "Musical instrument makers",
+      "Piano makers"
+    ],
+    "totalDist": 1092.0268711542376,
+    "meanDist": 218.4053742308475
+  },
+  {
+    "name": "Hafen, LeRoy R.",
+    "occupations": [
+      "Historians",
+      "College teachers",
+      "High school principals",
+      "Teachers",
+      "Museum directors",
+      "Periodical editors",
+      "Authors"
+    ],
+    "totalDist": 1308.5322660512575,
+    "meanDist": 218.0887110085429
+  },
+  {
+    "name": "Paddock, G. J.",
+    "occupations": [
+      "Attorney",
+      "Notary",
+      "Conveyancer",
+      "Lecturer",
+      "Mediator",
+      "Arbitrator"
+    ],
+    "totalDist": 1085.1592292742828,
+    "meanDist": 217.03184585485656
+  },
+  {
+    "name": "Berger, Karl H.",
+    "occupations": [
+      "Vibraphonists",
+      "Pianists",
+      "Music teachers",
+      "College teachers",
+      "Composers",
+      "Arrangers (Musicians)",
+      "Conductors (Music)",
+      "College department heads"
+    ],
+    "totalDist": 1513.6001074426374,
+    "meanDist": 216.22858677751964
+  },
+  {
+    "name": "Bowie, David",
+    "occupations": [
+      "Performer",
+      "Musicians",
+      "Singers",
+      "Composers",
+      "Actors",
+      "Sound recording executives and producers",
+      "Arrangers (Musicians)",
+      "Rock musicians",
+      "Glam rock musicians"
+    ],
+    "totalDist": 1715.2468854286674,
+    "meanDist": 214.40586067858342
+  },
+  {
+    "name": "Berger, Maurits",
+    "occupations": [
+      "Law teachers",
+      "College teachers",
+      "Lawyers",
+      "Journalists",
+      "Authors",
+      "Law professor"
+    ],
+    "totalDist": 1066.6306050015319,
+    "meanDist": 213.3261210003064
+  },
+  {
+    "name": "Katsaros, Doug",
+    "occupations": [
+      "Composers",
+      "Lyricists",
+      "Arrangers (Musicians)",
+      "Orchestrators",
+      "Conductors (Music)",
+      "Musicians",
+      "Performers"
+    ],
+    "totalDist": 1272.5519943147506,
+    "meanDist": 212.09199905245842
+  },
+  {
+    "name": "Atwater, Caleb,",
+    "occupations": [
+      "Minister",
+      "Lawyer",
+      "Educator",
+      "Legislator",
+      "Archaeologist",
+      "Historian"
+    ],
+    "totalDist": 1056.2545606853153,
+    "meanDist": 211.25091213706304
+  },
+  {
+    "name": "McCartney, Paul",
+    "occupations": [
+      "Musicians",
+      "Rock musicians",
+      "Singers",
+      "Composers",
+      "Sound recording executives and producers",
+      "Motion picture producers and directors"
+    ],
+    "totalDist": 1047.8259463071386,
+    "meanDist": 209.56518926142772
+  },
+  {
+    "name": "Cooper, Robert B.,",
+    "occupations": [
+      "Telecommunications engineers",
+      "Radio operators",
+      "Journalists",
+      "Novelists",
+      "CATV equipment manufacturer",
+      "Videographer"
+    ],
+    "totalDist": 1042.9544271378825,
+    "meanDist": 208.5908854275765
+  },
+  {
+    "name": "Wimmer, Mike",
+    "occupations": [
+      "Artist",
+      "Illustrator",
+      "Portrait painting",
+      "Teacher",
+      "Businessman",
+      "Public speaker"
+    ],
+    "totalDist": 1037.2235799853256,
+    "meanDist": 207.44471599706512
+  },
+  {
+    "name": "Hawes, Bess Lomax,",
+    "occupations": [
+      "Film director",
+      "writer",
+      "singer",
+      "teacher",
+      "folklorist",
+      "anthropologist"
+    ],
+    "totalDist": 1034.888098457385,
+    "meanDist": 206.977619691477
+  },
+  {
+    "name": "Havell, Robert,",
+    "occupations": [
+      "Artists",
+      "Painters",
+      "Engravers",
+      "Printmakers",
+      "Publishers and publishing",
+      "lcsh"
+    ],
+    "totalDist": 1026.1831889375628,
+    "meanDist": 205.23663778751256
+  },
+  {
+    "name": "Schiff, David,",
+    "occupations": [
+      "Authors",
+      "Editors",
+      "Guitarists",
+      "Woodworkers",
+      "Carpenters",
+      "Home renovator"
+    ],
+    "totalDist": 1019.351894858413,
+    "meanDist": 203.87037897168258
+  },
+  {
+    "name": "Ruiss, Gerhard",
+    "occupations": [
+      "Writer",
+      "Musician",
+      "Actor",
+      "Director",
+      "Teacher",
+      "Author"
+    ],
+    "totalDist": 1014.950068713646,
+    "meanDist": 202.99001374272922
+  },
+  {
+    "name": "Wright, Orville,",
+    "occupations": [
+      "Airplane inventor",
+      "Airplane manufacturer",
+      "Bicycle retailer",
+      "Bicycle manufacturer",
+      "Printer",
+      "Publisher",
+      "Pilot trainer"
+    ],
+    "totalDist": 1203.397369990127,
+    "meanDist": 200.56622833168782
+  },
+  {
+    "name": "Mazur, Marilyn",
+    "occupations": [
+      "Composers",
+      "Jazz musicians",
+      "Drummers (Musicians)",
+      "Percussionists",
+      "Singers",
+      "Dancers",
+      "Pianists",
+      "Bandleader"
+    ],
+    "totalDist": 1377.6541683430958,
+    "meanDist": 196.80773833472796
+  },
+  {
+    "name": "Brown, Hugh B.,",
+    "occupations": [
+      "Cowboy",
+      "Farmer",
+      "Soldier",
+      "Businessperson",
+      "Lawyer",
+      "Missionary",
+      "Church officer",
+      "College teacher"
+    ],
+    "totalDist": 1337.9027978852946,
+    "meanDist": 191.12897112647065
+  },
+  {
+    "name": "Shadbolt, Jack,",
+    "occupations": [
+      "Painter",
+      "Printmaker",
+      "Muralist",
+      "Graphic artist",
+      "Illustrator",
+      "Theatrical designer",
+      "Author",
+      "Poet",
+      "Educator"
+    ],
+    "totalDist": 1517.4221112250993,
+    "meanDist": 189.67776390313742
+  },
+  {
+    "name": "Gallas, Klaus",
+    "occupations": [
+      "Architect",
+      "Archaeologist",
+      "Journalist",
+      "Author",
+      "Cultural historian",
+      "Photographer",
+      "Cultural management advisor"
+    ],
+    "totalDist": 1039.5341975122137,
+    "meanDist": 173.25569958536894
+  },
+  {
+    "name": "Rosenthal, Friedrich",
+    "occupations": [
+      "Theaters--Employees",
+      "Stage managers",
+      "Dramatists",
+      "Theater historians",
+      "Dramaturges",
+      "Ethnologists",
+      "Heraldists"
+    ],
+    "totalDist": 1032.5594897657284,
+    "meanDist": 172.09324829428806
+  },
+  {
+    "name": "Erasmus, Desiderius,",
+    "occupations": [
+      "Renaissance humanist",
+      "Scholar",
+      "Catholic priest",
+      "Social critic",
+      "Teacher",
+      "Theologian",
+      "Classical scholar"
+    ],
+    "totalDist": 1031.6522865399975,
+    "meanDist": 171.94204775666626
+  },
+  {
+    "name": "Mumford, Lewis,",
+    "occupations": [
+      "author",
+      "philosopher",
+      "literary critic",
+      "historian",
+      "city planner",
+      "essayist",
+      "editor",
+      "educator"
+    ],
+    "totalDist": 1196.4357084406915,
+    "meanDist": 170.9193869200988
+  },
+  {
+    "name": "Morse, Scott",
+    "occupations": [
+      "Comic book artist",
+      "Penciller",
+      "Inker",
+      "Letterer",
+      "Colorist",
+      "Animator",
+      "Filmmaker",
+      "Character designer",
+      "Storyboard artist",
+      "Art director",
+      "Author"
+    ],
+    "totalDist": 1544.26198332956,
+    "meanDist": 154.426198332956
+  },
+  {
+    "name": "Richards, Keith,",
+    "occupations": [
+      "Musicians",
+      "Rock musicians",
+      "Blues musicians",
+      "Rhythm and blues musicians",
+      "Singers",
+      "Composers",
+      "Sound recording executives and producers",
+      "Actors"
+    ],
+    "totalDist": 1057.138892143148,
+    "meanDist": 151.01984173473542
+  },
+  {
+    "name": "Portella, Eduardo,",
+    "occupations": [
+      "Essayists",
+      "Critics",
+      "College teachers",
+      "Authors",
+      "Lecturers",
+      "Lawyers",
+      "Politicians",
+      "Researcher",
+      "Thinker"
+    ],
+    "totalDist": 1177.7065055196213,
+    "meanDist": 147.21331318995266
+  },
+  {
+    "name": "More, Thomas,",
+    "occupations": [
+      "Politicians",
+      "Statesmen",
+      "Lawyers",
+      "Humanists",
+      "Authors",
+      "Saints",
+      "Lawyer",
+      "Author",
+      "Politician",
+      "Lord chancellor"
+    ],
+    "totalDist": 1306.7040745286708,
+    "meanDist": 145.18934161429675
+  }
+]
