@@ -32,10 +32,12 @@ var NodeGeocoder = require('node-geocoder');
 var options = {
   provider: 'google',
   httpAdapter: 'https',
-  apiKey: 'YOUR API KEY GOES HERE.'
+  apiKey: 'AIzaSyDC8_KU8OP5i8hChJx9GuC_uLycSMwis0E'
 };
  
 var geocoder = NodeGeocoder(options);
+
+var geoSaveMap = require( appRoot + "/data/geoSaveMap.json");
 
 
 //XML Parser
@@ -147,20 +149,29 @@ var first = true;
 var gc = 0;
 
 function doGeoTag(placeString, placeObject) {
-		//console.log("ADD TO Q:" + placeString);
-		geoQ.push({"placeString":placeString, "placeObject":placeObject});
-		if(first && geoQ.length > 20) {
-			nextGeo();
-			first = false;
+		if(geoSaveMap[placeString]) {
+			placeObject.geoReturn = geoSaveMap[placeString];
+			console.log("FROM CACHE: " + placeString);
+
+		} else {
+			//console.log("ADD TO Q:" + placeString);
+			geoQ.push({"placeString":placeString, "placeObject":placeObject});
+			if(first && geoQ.length > 100) {
+				nextGeo();
+				first = false;
+			}
 		}
 }
 
 function nextGeo() {
-	processGeoTag(geoQ[0].placeString);
+	
+		processGeoTag(geoQ[0].placeString);
+	
 }
 
 function geoDone(geoReturn) {
 	geoQ[0].placeObject.geoReturn = geoReturn[0];
+	geoSaveMap[geoQ[0].placeString] = geoQ[0].placeObject.geoReturn;
 	if(geoQ.length > 0) {
 		geoQ.shift();
 	    if (geoQ.length > 0) {
@@ -187,6 +198,7 @@ function processGeoTag(placeString) {
 	  .catch(function(err) {
 	    console.log("ERROR GEOCODING");
 	    console.log(err);
+	    nextGeo();
 	  });
 	
 }
@@ -211,6 +223,15 @@ function onParseFinished() {
 	if (counter < 38) nextFile();
 }
 
+function writeSaveDict() {
+	var jsonGeoSave = JSON.stringify(geoSaveMap, null, 2);
+
+	//Write
+	fs.writeFile(appRoot + '/data/geoSaveMap.json', jsonGeoSave, 'utf8', function() {
+		console.log("Saved geo cache");
+	});
+}
+
 function sortAndWritePeople() {
 	//Replace object entries in people w/ Google place IDs
 	var newPeople = [];
@@ -220,9 +241,13 @@ function sortAndWritePeople() {
 		np.name = p.name;
 		np.birthDate = p.birthDate;
 		np.deathDate = p.deathDate;
+
 		if (p.birthPlace.geoReturn) {
 			np.birthPlaceID = p.birthPlace.geoReturn.extra.googlePlaceId;
-			np.deathPlaceID = p.birthPlace.geoReturn.extra.googlePlaceId;
+			
+		}
+		if (p.deathPlace.geoReturn) {
+			np.deathPlaceID = p.deathPlace.geoReturn.extra.googlePlaceId;
 		}
 		newPeople.push(np);
 	}
@@ -307,7 +332,9 @@ function nextFile() {
 loadNetworkDistances();
 nextFile();
 
-setInterval(function(){ console.log("Hello"); }, 30000);
+setInterval(function(){ 
+	writeSaveDict();
+ }, 30000);
 
 
 
