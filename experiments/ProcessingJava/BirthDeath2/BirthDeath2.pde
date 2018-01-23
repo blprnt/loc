@@ -111,7 +111,7 @@ void positionRing() {
 void draw() {
   tickClock();
   mod = lerp(mod, tmod, 0.1);
-  background(100);
+  background(50   );
   
   
   fill(unhex(colors[colors.length - 3]));

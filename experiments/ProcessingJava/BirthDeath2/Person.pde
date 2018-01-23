@@ -42,7 +42,7 @@ class Person {
           color c = unhex(colors[colors.length - floor(cf * 11) - 1]);
           fill(c);
           noStroke();
-          ellipse(b.x, b.y, 3,3);
+          rect(b.x, b.y, 2,2);
         }
       }
     }
