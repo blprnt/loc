@@ -2,7 +2,7 @@
 import toxi.geom.*;
 
 
-String dataPath = "/Users/jerthorp/code/loc/experiments/words_tsne/wordMap.json";
+String dataPath = "/Users/jerthorp/code/loc/experiments/words_tsne/wordMap_final.json";
 ArrayList<WordPoint> words = new ArrayList();
 
 HashMap<String, ArrayList<WordPoint>> wordMap = new HashMap();

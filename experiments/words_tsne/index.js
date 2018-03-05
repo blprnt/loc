@@ -1,12 +1,18 @@
 import TSNE from 'tsne-js';
 const fs = require('fs');  
 
+process.argv.forEach(function (val, index, array) {
+  console.log(index + ': ' + val);
+});
+
+
+
 let model = new TSNE({
   dim: 3,
   perplexity: 30.0,
   earlyExaggeration: 4.0,
   learningRate: 100.0,
-  nIter: 600,
+  nIter: process.argv[2],
   metric: 'euclidean'
 });
 
@@ -29,7 +35,7 @@ model.on('progressIter', function (iter) {
 
 console.log("INITING.");
 
-var num = 8000;
+var num = process.argv[3];
 
 model.init({
   data: inputData.data.slice(0,num),
