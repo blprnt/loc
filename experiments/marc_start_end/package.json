@@ -1,0 +1,29 @@
+{
+  "name": "LOC_MARC",
+  "version": "1.0.0",
+  "description": "LOC MARC Network Munge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "download-data": "wget --input-file data/urls.txt --directory-prefix data"
+  },
+  "keywords": [
+    "libraries"
+  ],
+  "author": "Jer Thorp",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "concat-stream": "^1.6.0",
+    "en-stemmer": "^1.0.3",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "natural": "^0.5.4",
+    "node-xml-stream": "^1.0.2",
+    "progress": "^2.0.0",
+    "request": "^2.83.0",
+    "stemmer": "^1.0.2",
+    "xml2object": "^0.1.2",
+    "zlib": "^1.0.5"
+  }
+}
