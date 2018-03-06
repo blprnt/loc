@@ -1,3 +1,4 @@
 node_modules/
 experiments/marc/data/titles/*
 data/titles/*
+experiments/ProcessingJava/WordVecConvert/*.json
