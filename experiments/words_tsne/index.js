@@ -17,7 +17,7 @@ let model = new TSNE({
   metric: 'euclidean'
 });
 
-var inputData = require("./data/wordVectors.json");
+var inputData = require("./data/wordVectorsFull.json");
 
 // inputData is a nested array which can be converted into an ndarray
 // alternatively, it can be an array of coordinates (second argument should be specified as 'sparse')
