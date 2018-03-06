@@ -5,7 +5,8 @@ process.argv.forEach(function (val, index, array) {
   console.log(index + ': ' + val);
 });
 
-
+console.log("iterations:" + process.argv[2]);
+console.log("num:" + process.argv[3]);
 
 let model = new TSNE({
   dim: 3,
